@@ -8,7 +8,7 @@ enum State {IDLE, MOVE, ATTACK, DAMAGED, DEATH}
 onready var _hp := 100
 onready var _sp := 100
 onready var _attack_point := 10
-onready var _speed := 4
+onready var _speed := 4.0
 onready var _state = State.IDLE
 
 func get_health() -> int:
@@ -20,7 +20,7 @@ func get_stamina() -> int:
 func get_attack_point() -> int:
 	return _attack_point
 
-func get_speed() -> int:
+func get_speed() -> float:
 	return _speed
 
 func get_state():
@@ -29,7 +29,7 @@ func get_state():
 func set_attack_point(point: int):
 	_attack_point = point
 
-func set_speed(speed: int):
+func set_speed(speed: float):
 	_speed = speed
 
 func set_state(state):
