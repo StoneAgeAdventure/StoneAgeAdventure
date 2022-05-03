@@ -16,3 +16,4 @@ func damage(hp: int):
 
 func death():
 	pass
+
