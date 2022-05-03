@@ -9,6 +9,7 @@ func _ready():
 	add_child(_label)
 
 func _process(_delta):
+	self.position = Vector2(_screen_width - 100, 0)
 	var fps := Engine.get_frames_per_second() as int
 	var objects := get_tree().get_node_count()
 	_label.text = "Objects: %d\nFPS: %d" % [objects, fps]
