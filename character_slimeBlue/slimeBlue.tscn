@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://character/kobold-idle.png" type="Texture" id=1]
+[ext_resource path="res://character/slime-blue.png" type="Texture" id=1]
 
 [sub_resource type="Animation" id=1]
 length = 0.001
@@ -19,7 +19,8 @@ tracks/0/keys = {
 
 [sub_resource type="Animation" id=2]
 resource_name = "move"
-length = 4.0
+length = 0.4
+loop = true
 tracks/0/type = "value"
 tracks/0/path = NodePath("Sprite:frame")
 tracks/0/interp = 1
@@ -27,10 +28,10 @@ tracks/0/loop_wrap = true
 tracks/0/imported = false
 tracks/0/enabled = true
 tracks/0/keys = {
-"times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 2.2 ),
-"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ),
+"times": PoolRealArray( 0, 0.1, 0.2, 0.3 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
 "update": 1,
-"values": [ 0, 1, 2, 5, 6, 6, 7, 7, 8, 10, 12, 14 ]
+"values": [ 0, 1, 2, 3 ]
 }
 
 [node name="Control" type="Control"]
@@ -38,10 +39,9 @@ margin_right = 40.0
 margin_bottom = 40.0
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 361.5, 174.5 )
-scale = Vector2( 8.29167, 6.79167 )
+position = Vector2( 186, 55 )
 texture = ExtResource( 1 )
-hframes = 15
+hframes = 4
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 anims/RESET = SubResource( 1 )
