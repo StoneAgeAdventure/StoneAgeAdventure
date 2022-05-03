@@ -40,10 +40,6 @@ tracks/0/keys = {
 margin_right = 40.0
 margin_bottom = 40.0
 
-[node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 159, 84.5 )
-scale = Vector2( 4.25, 4.04167 )
-
 [node name="Player" type="Sprite" parent="."]
 position = Vector2( 12, 12 )
 texture = ExtResource( 1 )
