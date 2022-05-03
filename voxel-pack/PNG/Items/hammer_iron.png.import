@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hammer_iron.png-c0bfd210afc5928e5ffc0890100ed4ef.stex"
+path="res://.import/hammer_iron.png-469405daccf386ca15dd4a5b2a768a08.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hammer_iron.png"
-dest_files=[ "res://.import/hammer_iron.png-c0bfd210afc5928e5ffc0890100ed4ef.stex" ]
+source_file="res://voxel-pack/PNG/Items/hammer_iron.png"
+dest_files=[ "res://.import/hammer_iron.png-469405daccf386ca15dd4a5b2a768a08.stex" ]
 
 [params]
 

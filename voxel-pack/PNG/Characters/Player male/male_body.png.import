@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/male_body.png-e6c97835b3acde525387c155333a3ec8.stex"
+path="res://.import/male_body.png-aa35fde4e736d2502ab2ffce6e8707a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Player male/male_body.png"
-dest_files=[ "res://.import/male_body.png-e6c97835b3acde525387c155333a3ec8.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Player male/male_body.png"
+dest_files=[ "res://.import/male_body.png-aa35fde4e736d2502ab2ffce6e8707a9.stex" ]
 
 [params]
 

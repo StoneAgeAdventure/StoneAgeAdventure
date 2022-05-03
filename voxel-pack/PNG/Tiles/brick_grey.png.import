@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/brick_grey.png-caf27d24573751139ebc40116de41736.stex"
+path="res://.import/brick_grey.png-fb21107b458c70fc28ac0eaa29e0fea9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/brick_grey.png"
-dest_files=[ "res://.import/brick_grey.png-caf27d24573751139ebc40116de41736.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/brick_grey.png"
+dest_files=[ "res://.import/brick_grey.png-fb21107b458c70fc28ac0eaa29e0fea9.stex" ]
 
 [params]
 

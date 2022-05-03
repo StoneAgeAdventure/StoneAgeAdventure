@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/seed.png-7b1c5719e2e0ca948dc549015045a761.stex"
+path="res://.import/seed.png-f987ef318b4d1d6063d0fa5739854d67.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/seed.png"
-dest_files=[ "res://.import/seed.png-7b1c5719e2e0ca948dc549015045a761.stex" ]
+source_file="res://voxel-pack/PNG/Items/seed.png"
+dest_files=[ "res://.import/seed.png-f987ef318b4d1d6063d0fa5739854d67.stex" ]
 
 [params]
 

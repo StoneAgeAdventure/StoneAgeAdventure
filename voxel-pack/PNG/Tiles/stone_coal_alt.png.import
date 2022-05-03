@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_coal_alt.png-35aa38bc66306a32fc8c70fab5ae6c9c.stex"
+path="res://.import/stone_coal_alt.png-fcae47a3fa6ba9fd111b9c94224a25f4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_coal_alt.png"
-dest_files=[ "res://.import/stone_coal_alt.png-35aa38bc66306a32fc8c70fab5ae6c9c.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/stone_coal_alt.png"
+dest_files=[ "res://.import/stone_coal_alt.png-fcae47a3fa6ba9fd111b9c94224a25f4.stex" ]
 
 [params]
 

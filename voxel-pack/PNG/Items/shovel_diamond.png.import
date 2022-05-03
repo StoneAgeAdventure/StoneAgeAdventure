@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shovel_diamond.png-a137c7190a794a96c57cfea5492363cc.stex"
+path="res://.import/shovel_diamond.png-177cf9d2bf93667da0f786cb9916a3ca.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/shovel_diamond.png"
-dest_files=[ "res://.import/shovel_diamond.png-a137c7190a794a96c57cfea5492363cc.stex" ]
+source_file="res://voxel-pack/PNG/Items/shovel_diamond.png"
+dest_files=[ "res://.import/shovel_diamond.png-177cf9d2bf93667da0f786cb9916a3ca.stex" ]
 
 [params]
 

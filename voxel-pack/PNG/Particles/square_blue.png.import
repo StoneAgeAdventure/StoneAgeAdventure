@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/square_blue.png-eff278533d98c871aa2ea51f7a1c74a0.stex"
+path="res://.import/square_blue.png-2fb531650d1cb1d0402cf36e0a871786.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Particles/square_blue.png"
-dest_files=[ "res://.import/square_blue.png-eff278533d98c871aa2ea51f7a1c74a0.stex" ]
+source_file="res://voxel-pack/PNG/Particles/square_blue.png"
+dest_files=[ "res://.import/square_blue.png-2fb531650d1cb1d0402cf36e0a871786.stex" ]
 
 [params]
 

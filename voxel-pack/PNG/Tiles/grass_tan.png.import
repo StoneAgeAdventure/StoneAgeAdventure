@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass_tan.png-d19d2270ef2e55932f3e2153adc2d747.stex"
+path="res://.import/grass_tan.png-f2f9c8113a27bf08325b6e42f9fbfa31.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/grass_tan.png"
-dest_files=[ "res://.import/grass_tan.png-d19d2270ef2e55932f3e2153adc2d747.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/grass_tan.png"
+dest_files=[ "res://.import/grass_tan.png-f2f9c8113a27bf08325b6e42f9fbfa31.stex" ]
 
 [params]
 

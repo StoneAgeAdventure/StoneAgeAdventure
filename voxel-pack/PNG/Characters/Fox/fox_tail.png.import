@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fox_tail.png-4d0ab4b5121c9288666dd4d2dca0320c.stex"
+path="res://.import/fox_tail.png-d416cd7edab98f3744dfc92c9b449840.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Fox/fox_tail.png"
-dest_files=[ "res://.import/fox_tail.png-4d0ab4b5121c9288666dd4d2dca0320c.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Fox/fox_tail.png"
+dest_files=[ "res://.import/fox_tail.png-d416cd7edab98f3744dfc92c9b449840.stex" ]
 
 [params]
 

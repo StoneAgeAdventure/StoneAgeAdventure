@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oven.png-94f8587c48973990c71e3d3d6fd6ba4c.stex"
+path="res://.import/oven.png-2e64ca464219f440c364c9b2d4f6fb33.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/oven.png"
-dest_files=[ "res://.import/oven.png-94f8587c48973990c71e3d3d6fd6ba4c.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/oven.png"
+dest_files=[ "res://.import/oven.png-2e64ca464219f440c364c9b2d4f6fb33.stex" ]
 
 [params]
 

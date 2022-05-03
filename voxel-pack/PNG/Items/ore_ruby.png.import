@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ore_ruby.png-8e0a45456b025723e39923a35454b53f.stex"
+path="res://.import/ore_ruby.png-8c4ebc6151f05ff82f73bd1b440fc487.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/ore_ruby.png"
-dest_files=[ "res://.import/ore_ruby.png-8e0a45456b025723e39923a35454b53f.stex" ]
+source_file="res://voxel-pack/PNG/Items/ore_ruby.png"
+dest_files=[ "res://.import/ore_ruby.png-8c4ebc6151f05ff82f73bd1b440fc487.stex" ]
 
 [params]
 

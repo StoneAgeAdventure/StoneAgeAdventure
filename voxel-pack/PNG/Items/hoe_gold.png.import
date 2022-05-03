@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hoe_gold.png-b583479a4b254b08f94facf3264d6f31.stex"
+path="res://.import/hoe_gold.png-ec194f9957bc30359e2af3fff84c4bb0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hoe_gold.png"
-dest_files=[ "res://.import/hoe_gold.png-b583479a4b254b08f94facf3264d6f31.stex" ]
+source_file="res://voxel-pack/PNG/Items/hoe_gold.png"
+dest_files=[ "res://.import/hoe_gold.png-ec194f9957bc30359e2af3fff84c4bb0.stex" ]
 
 [params]
 

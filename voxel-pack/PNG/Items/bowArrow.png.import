@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bowArrow.png-672c9f12b68b2845d06b2610550fc51c.stex"
+path="res://.import/bowArrow.png-27f5996e439ac782ec1b7111e8d67563.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/bowArrow.png"
-dest_files=[ "res://.import/bowArrow.png-672c9f12b68b2845d06b2610550fc51c.stex" ]
+source_file="res://voxel-pack/PNG/Items/bowArrow.png"
+dest_files=[ "res://.import/bowArrow.png-27f5996e439ac782ec1b7111e8d67563.stex" ]
 
 [params]
 

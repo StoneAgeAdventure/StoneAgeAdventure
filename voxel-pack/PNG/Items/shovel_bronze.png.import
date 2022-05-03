@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shovel_bronze.png-3b13b93a6c302366ab26dfccde4a8b7d.stex"
+path="res://.import/shovel_bronze.png-8467843e1b630894310419193d5536d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/shovel_bronze.png"
-dest_files=[ "res://.import/shovel_bronze.png-3b13b93a6c302366ab26dfccde4a8b7d.stex" ]
+source_file="res://voxel-pack/PNG/Items/shovel_bronze.png"
+dest_files=[ "res://.import/shovel_bronze.png-8467843e1b630894310419193d5536d0.stex" ]
 
 [params]
 

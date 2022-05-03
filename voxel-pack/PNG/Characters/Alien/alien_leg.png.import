@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_leg.png-81991e7564d55bf77c1b2bd399e4f839.stex"
+path="res://.import/alien_leg.png-b4694cdd788794fe570d61218a344e10.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Alien/alien_leg.png"
-dest_files=[ "res://.import/alien_leg.png-81991e7564d55bf77c1b2bd399e4f839.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Alien/alien_leg.png"
+dest_files=[ "res://.import/alien_leg.png-b4694cdd788794fe570d61218a344e10.stex" ]
 
 [params]
 

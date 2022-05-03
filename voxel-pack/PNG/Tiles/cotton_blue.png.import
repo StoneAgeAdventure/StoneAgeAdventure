@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cotton_blue.png-67ba34f30d8a8ff6a666adfaf6ba7862.stex"
+path="res://.import/cotton_blue.png-4318a27b0e2e1d3fa82298ea65f52fa3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/cotton_blue.png"
-dest_files=[ "res://.import/cotton_blue.png-67ba34f30d8a8ff6a666adfaf6ba7862.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/cotton_blue.png"
+dest_files=[ "res://.import/cotton_blue.png-4318a27b0e2e1d3fa82298ea65f52fa3.stex" ]
 
 [params]
 

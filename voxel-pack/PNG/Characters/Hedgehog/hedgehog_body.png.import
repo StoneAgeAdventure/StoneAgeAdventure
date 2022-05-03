@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hedgehog_body.png-2c1e9e1543f22a2f33858cd47d131434.stex"
+path="res://.import/hedgehog_body.png-4490e388d37aa1f8f44954fd8d3e9d4c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Hedgehog/hedgehog_body.png"
-dest_files=[ "res://.import/hedgehog_body.png-2c1e9e1543f22a2f33858cd47d131434.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Hedgehog/hedgehog_body.png"
+dest_files=[ "res://.import/hedgehog_body.png-4490e388d37aa1f8f44954fd8d3e9d4c.stex" ]
 
 [params]
 

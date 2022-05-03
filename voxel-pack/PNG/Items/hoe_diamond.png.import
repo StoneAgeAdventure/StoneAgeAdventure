@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hoe_diamond.png-bffa55c806e613df297888a18e63f531.stex"
+path="res://.import/hoe_diamond.png-b5eb3c1849277f198127e39d2f2621bc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hoe_diamond.png"
-dest_files=[ "res://.import/hoe_diamond.png-bffa55c806e613df297888a18e63f531.stex" ]
+source_file="res://voxel-pack/PNG/Items/hoe_diamond.png"
+dest_files=[ "res://.import/hoe_diamond.png-b5eb3c1849277f198127e39d2f2621bc.stex" ]
 
 [params]
 

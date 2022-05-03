@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trunk_bottom.png-2f579eca96c07ba52fcd45d451c022ea.stex"
+path="res://.import/trunk_bottom.png-34c3f63265006be1b3c42450aa4c65eb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/trunk_bottom.png"
-dest_files=[ "res://.import/trunk_bottom.png-2f579eca96c07ba52fcd45d451c022ea.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/trunk_bottom.png"
+dest_files=[ "res://.import/trunk_bottom.png-34c3f63265006be1b3c42450aa4c65eb.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redstone_emerald_alt.png-4bf0dc5f619827c717ce3608f9b0bacc.stex"
+path="res://.import/redstone_emerald_alt.png-44d601181714b895f6725267984db8f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/redstone_emerald_alt.png"
-dest_files=[ "res://.import/redstone_emerald_alt.png-4bf0dc5f619827c717ce3608f9b0bacc.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/redstone_emerald_alt.png"
+dest_files=[ "res://.import/redstone_emerald_alt.png-44d601181714b895f6725267984db8f0.stex" ]
 
 [params]
 

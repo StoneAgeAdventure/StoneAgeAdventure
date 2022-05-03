@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pick_bronze.png-d94ee023b8b5e0d82e1d3310f6a3bcb5.stex"
+path="res://.import/pick_bronze.png-fca36e642c80f4b62579b5e6ff2f0bd3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/pick_bronze.png"
-dest_files=[ "res://.import/pick_bronze.png-d94ee023b8b5e0d82e1d3310f6a3bcb5.stex" ]
+source_file="res://voxel-pack/PNG/Items/pick_bronze.png"
+dest_files=[ "res://.import/pick_bronze.png-fca36e642c80f4b62579b5e6ff2f0bd3.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wheat.png-5d542ac0bc8253f7d0ebe1e2ec5bc76b.stex"
+path="res://.import/wheat.png-735db03661cc83ffc7caad95496cb809.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/wheat.png"
-dest_files=[ "res://.import/wheat.png-5d542ac0bc8253f7d0ebe1e2ec5bc76b.stex" ]
+source_file="res://voxel-pack/PNG/Items/wheat.png"
+dest_files=[ "res://.import/wheat.png-735db03661cc83ffc7caad95496cb809.stex" ]
 
 [params]
 

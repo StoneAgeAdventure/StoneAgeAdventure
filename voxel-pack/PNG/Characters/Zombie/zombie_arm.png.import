@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/zombie_arm.png-f136a3467828f96e659fb6b9de959a6a.stex"
+path="res://.import/zombie_arm.png-cd4ef3f8c137807c8e294edfcbb97e66.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Zombie/zombie_arm.png"
-dest_files=[ "res://.import/zombie_arm.png-f136a3467828f96e659fb6b9de959a6a.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Zombie/zombie_arm.png"
+dest_files=[ "res://.import/zombie_arm.png-cd4ef3f8c137807c8e294edfcbb97e66.stex" ]
 
 [params]
 

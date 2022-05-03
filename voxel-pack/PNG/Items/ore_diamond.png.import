@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ore_diamond.png-ccb946bd14d5e22d5e18cd2ccdea2c20.stex"
+path="res://.import/ore_diamond.png-eb722b6ca441ad7171de8b8261d48de6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/ore_diamond.png"
-dest_files=[ "res://.import/ore_diamond.png-ccb946bd14d5e22d5e18cd2ccdea2c20.stex" ]
+source_file="res://voxel-pack/PNG/Items/ore_diamond.png"
+dest_files=[ "res://.import/ore_diamond.png-eb722b6ca441ad7171de8b8261d48de6.stex" ]
 
 [params]
 

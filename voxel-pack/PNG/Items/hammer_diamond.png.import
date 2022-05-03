@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hammer_diamond.png-3922d32f0394c79d3717fa6d5a6926ad.stex"
+path="res://.import/hammer_diamond.png-a5ea227a9b7bdf3510a3410146fd39cc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hammer_diamond.png"
-dest_files=[ "res://.import/hammer_diamond.png-3922d32f0394c79d3717fa6d5a6926ad.stex" ]
+source_file="res://voxel-pack/PNG/Items/hammer_diamond.png"
+dest_files=[ "res://.import/hammer_diamond.png-a5ea227a9b7bdf3510a3410146fd39cc.stex" ]
 
 [params]
 

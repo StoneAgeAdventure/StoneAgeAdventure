@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hammer_gold.png-0763a88048cf6472559410110d9f5ad3.stex"
+path="res://.import/hammer_gold.png-3199b8c712204b359207635283637c89.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hammer_gold.png"
-dest_files=[ "res://.import/hammer_gold.png-0763a88048cf6472559410110d9f5ad3.stex" ]
+source_file="res://voxel-pack/PNG/Items/hammer_gold.png"
+dest_files=[ "res://.import/hammer_gold.png-3199b8c712204b359207635283637c89.stex" ]
 
 [params]
 

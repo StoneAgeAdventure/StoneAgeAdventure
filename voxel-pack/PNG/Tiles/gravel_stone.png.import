@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gravel_stone.png-4a78059b6320384a780a9a4fd4cb9bf8.stex"
+path="res://.import/gravel_stone.png-19d01d76f08c014207cf44a2bfebce0c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/gravel_stone.png"
-dest_files=[ "res://.import/gravel_stone.png-4a78059b6320384a780a9a4fd4cb9bf8.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/gravel_stone.png"
+dest_files=[ "res://.import/gravel_stone.png-19d01d76f08c014207cf44a2bfebce0c.stex" ]
 
 [params]
 

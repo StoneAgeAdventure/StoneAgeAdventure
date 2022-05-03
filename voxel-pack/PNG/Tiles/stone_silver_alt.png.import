@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_silver_alt.png-6b39a8b7fc91614349422387f8b67b82.stex"
+path="res://.import/stone_silver_alt.png-181aeb75e05a26bdc380cae5a402ede6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_silver_alt.png"
-dest_files=[ "res://.import/stone_silver_alt.png-6b39a8b7fc91614349422387f8b67b82.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/stone_silver_alt.png"
+dest_files=[ "res://.import/stone_silver_alt.png-181aeb75e05a26bdc380cae5a402ede6.stex" ]
 
 [params]
 

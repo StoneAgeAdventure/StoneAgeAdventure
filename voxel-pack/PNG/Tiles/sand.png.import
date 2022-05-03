@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sand.png-54565fe6d8862d8426808042b75ac8b9.stex"
+path="res://.import/sand.png-29afdbeb82eb5464b070d45006170175.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/sand.png"
-dest_files=[ "res://.import/sand.png-54565fe6d8862d8426808042b75ac8b9.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/sand.png"
+dest_files=[ "res://.import/sand.png-29afdbeb82eb5464b070d45006170175.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vector_characters.svg-21bf913bfadfdfda1944cae3d7a0da94.stex"
+path="res://.import/vector_characters.svg-3b699b72c9f42345e0aa8e181fe84805.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/Vector/vector_characters.svg"
-dest_files=[ "res://.import/vector_characters.svg-21bf913bfadfdfda1944cae3d7a0da94.stex" ]
+source_file="res://voxel-pack/Vector/vector_characters.svg"
+dest_files=[ "res://.import/vector_characters.svg-3b699b72c9f42345e0aa8e181fe84805.stex" ]
 
 [params]
 

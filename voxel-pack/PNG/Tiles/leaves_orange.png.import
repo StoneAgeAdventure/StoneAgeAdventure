@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/leaves_orange.png-850b520b066d0e5bb46b6af806c18c23.stex"
+path="res://.import/leaves_orange.png-2ce65fec632a77ca799f33540817d726.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/leaves_orange.png"
-dest_files=[ "res://.import/leaves_orange.png-850b520b066d0e5bb46b6af806c18c23.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/leaves_orange.png"
+dest_files=[ "res://.import/leaves_orange.png-2ce65fec632a77ca799f33540817d726.stex" ]
 
 [params]
 
