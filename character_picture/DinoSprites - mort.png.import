@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mani-idle-run.png-bf820518e81aa6f994d3a7beb96664b8.stex"
+path="res://.import/DinoSprites - mort.png-376ae612bdfab3a89d2a9dc1461f2081.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character/mani-idle-run.png"
-dest_files=[ "res://.import/mani-idle-run.png-bf820518e81aa6f994d3a7beb96664b8.stex" ]
+source_file="res://character_picture/DinoSprites - mort.png"
+dest_files=[ "res://.import/DinoSprites - mort.png-376ae612bdfab3a89d2a9dc1461f2081.stex" ]
 
 [params]
 

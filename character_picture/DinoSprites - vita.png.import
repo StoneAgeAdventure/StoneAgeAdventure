@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fox-run.png-36f8686b28746b26bb5627566ec11741.stex"
+path="res://.import/DinoSprites - vita.png-c3297a7a769ee6c736a2b330b799c09e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character/fox-run.png"
-dest_files=[ "res://.import/fox-run.png-36f8686b28746b26bb5627566ec11741.stex" ]
+source_file="res://character_picture/DinoSprites - vita.png"
+dest_files=[ "res://.import/DinoSprites - vita.png-c3297a7a769ee6c736a2b330b799c09e.stex" ]
 
 [params]
 

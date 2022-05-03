@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kobold-idle.png-1957b81d65b15f751fa6a6c9f0a0f7f6.stex"
+path="res://.import/hat-guy.png-631672d48c335a5c59c854db3fcbefd9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character/kobold-idle.png"
-dest_files=[ "res://.import/kobold-idle.png-1957b81d65b15f751fa6a6c9f0a0f7f6.stex" ]
+source_file="res://character_picture/hat-guy.png"
+dest_files=[ "res://.import/hat-guy.png-631672d48c335a5c59c854db3fcbefd9.stex" ]
 
 [params]
 

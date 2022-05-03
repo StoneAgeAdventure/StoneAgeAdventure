@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DinoSprites - vita.png-4e52765eb6e4ef61ac5373001d8a75be.stex"
+path="res://.import/gabe-idle-run.png-c47007d6eeefd40cbc34582da3cefe36.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character/DinoSprites - vita.png"
-dest_files=[ "res://.import/DinoSprites - vita.png-4e52765eb6e4ef61ac5373001d8a75be.stex" ]
+source_file="res://character_picture/gabe-idle-run.png"
+dest_files=[ "res://.import/gabe-idle-run.png-c47007d6eeefd40cbc34582da3cefe36.stex" ]
 
 [params]
 
