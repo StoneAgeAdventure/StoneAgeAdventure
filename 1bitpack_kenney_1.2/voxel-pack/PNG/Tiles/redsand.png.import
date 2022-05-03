@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redsand.png-ed47a45b3a3b4801b5f45566faac15ef.stex"
+path="res://.import/redsand.png-eb8c6c628804a9e3128ff6bce4fa8151.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/redsand.png"
-dest_files=[ "res://.import/redsand.png-ed47a45b3a3b4801b5f45566faac15ef.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/redsand.png"
+dest_files=[ "res://.import/redsand.png-eb8c6c628804a9e3128ff6bce4fa8151.stex" ]
 
 [params]
 

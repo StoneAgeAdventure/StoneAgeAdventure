@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_dirt.png-aaf592ece077c530d9e03391ea0ef00e.stex"
+path="res://.import/stone_dirt.png-d23b75174fff779ad9db1693c8abab2e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/stone_dirt.png"
-dest_files=[ "res://.import/stone_dirt.png-aaf592ece077c530d9e03391ea0ef00e.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_dirt.png"
+dest_files=[ "res://.import/stone_dirt.png-d23b75174fff779ad9db1693c8abab2e.stex" ]
 
 [params]
 

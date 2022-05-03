@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/square_orange.png-f4644ac771145426fe061d56e940d249.stex"
+path="res://.import/square_orange.png-c5d9021abfcd5a93e2ce468086ac1677.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Particles/square_orange.png"
-dest_files=[ "res://.import/square_orange.png-f4644ac771145426fe061d56e940d249.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Particles/square_orange.png"
+dest_files=[ "res://.import/square_orange.png-c5d9021abfcd5a93e2ce468086ac1677.stex" ]
 
 [params]
 

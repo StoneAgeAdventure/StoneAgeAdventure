@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snow.png-c7b8c26d0a0a606885d2d4e3f949835f.stex"
+path="res://.import/snow.png-ed57915569946c5cdf782c859580dbcf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/snow.png"
-dest_files=[ "res://.import/snow.png-c7b8c26d0a0a606885d2d4e3f949835f.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/snow.png"
+dest_files=[ "res://.import/snow.png-ed57915569946c5cdf782c859580dbcf.stex" ]
 
 [params]
 

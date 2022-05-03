@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_diamond_alt.png-c750451da4a8e0ae7520272f831cea43.stex"
+path="res://.import/stone_diamond_alt.png-40a3b59488f3c3513c76680f7a24f2bb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/stone_diamond_alt.png"
-dest_files=[ "res://.import/stone_diamond_alt.png-c750451da4a8e0ae7520272f831cea43.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_diamond_alt.png"
+dest_files=[ "res://.import/stone_diamond_alt.png-40a3b59488f3c3513c76680f7a24f2bb.stex" ]
 
 [params]
 

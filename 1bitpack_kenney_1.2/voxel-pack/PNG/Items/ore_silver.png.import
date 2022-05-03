@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ore_silver.png-e6aaef7b1558ed6e8c93fac0c6659b50.stex"
+path="res://.import/ore_silver.png-83c8518c07d565c2eea9bd3606c1b112.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/ore_silver.png"
-dest_files=[ "res://.import/ore_silver.png-e6aaef7b1558ed6e8c93fac0c6659b50.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/ore_silver.png"
+dest_files=[ "res://.import/ore_silver.png-83c8518c07d565c2eea9bd3606c1b112.stex" ]
 
 [params]
 

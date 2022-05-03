@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redstone.png-974b21200d33d80722818881d274e0fa.stex"
+path="res://.import/redstone.png-0b02417417c7e8c2eaeb5d0ed57360af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/redstone.png"
-dest_files=[ "res://.import/redstone.png-974b21200d33d80722818881d274e0fa.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/redstone.png"
+dest_files=[ "res://.import/redstone.png-0b02417417c7e8c2eaeb5d0ed57360af.stex" ]
 
 [params]
 

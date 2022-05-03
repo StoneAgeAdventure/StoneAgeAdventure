@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ore_ironAlt.png-3cff939249fb88d2e7718409d528640f.stex"
+path="res://.import/ore_ironAlt.png-36cda52202f2549ffa63e1e7db01054d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/ore_ironAlt.png"
-dest_files=[ "res://.import/ore_ironAlt.png-3cff939249fb88d2e7718409d528640f.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/ore_ironAlt.png"
+dest_files=[ "res://.import/ore_ironAlt.png-36cda52202f2549ffa63e1e7db01054d.stex" ]
 
 [params]
 

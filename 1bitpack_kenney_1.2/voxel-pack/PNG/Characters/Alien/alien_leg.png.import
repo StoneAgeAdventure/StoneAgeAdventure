@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_leg.png-959268230fbd5519e819a9bb85a1ae46.stex"
+path="res://.import/alien_leg.png-81991e7564d55bf77c1b2bd399e4f839.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Alien/alien_leg.png"
-dest_files=[ "res://.import/alien_leg.png-959268230fbd5519e819a9bb85a1ae46.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Alien/alien_leg.png"
+dest_files=[ "res://.import/alien_leg.png-81991e7564d55bf77c1b2bd399e4f839.stex" ]
 
 [params]
 

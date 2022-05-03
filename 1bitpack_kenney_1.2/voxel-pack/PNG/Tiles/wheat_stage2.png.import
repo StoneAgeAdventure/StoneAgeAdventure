@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wheat_stage2.png-424d0a1f39d7b576e2d3dc9282dcde45.stex"
+path="res://.import/wheat_stage2.png-9f8383f2ce320c91877874e80cb8bbbb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/wheat_stage2.png"
-dest_files=[ "res://.import/wheat_stage2.png-424d0a1f39d7b576e2d3dc9282dcde45.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/wheat_stage2.png"
+dest_files=[ "res://.import/wheat_stage2.png-9f8383f2ce320c91877874e80cb8bbbb.stex" ]
 
 [params]
 

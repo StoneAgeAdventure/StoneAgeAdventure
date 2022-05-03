@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_iron_alt.png-8ed2b3961c09e447feaff6c39bbba8dc.stex"
+path="res://.import/stone_iron_alt.png-0cf318babf0b6728ef7a9430bc3c0b44.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/stone_iron_alt.png"
-dest_files=[ "res://.import/stone_iron_alt.png-8ed2b3961c09e447feaff6c39bbba8dc.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_iron_alt.png"
+dest_files=[ "res://.import/stone_iron_alt.png-0cf318babf0b6728ef7a9430bc3c0b44.stex" ]
 
 [params]
 

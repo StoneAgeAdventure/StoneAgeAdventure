@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wood_red.png-f4edefe7bc9ff44c2a3464059b58d925.stex"
+path="res://.import/wood_red.png-4f1f33029612e97dde2cdf79b8a6e1fd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/wood_red.png"
-dest_files=[ "res://.import/wood_red.png-f4edefe7bc9ff44c2a3464059b58d925.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/wood_red.png"
+dest_files=[ "res://.import/wood_red.png-4f1f33029612e97dde2cdf79b8a6e1fd.stex" ]
 
 [params]
 

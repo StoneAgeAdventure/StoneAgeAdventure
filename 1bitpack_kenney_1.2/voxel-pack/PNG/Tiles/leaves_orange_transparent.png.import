@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/leaves_orange_transparent.png-b6d710780157c1bc3a7bed56ddc86e7c.stex"
+path="res://.import/leaves_orange_transparent.png-38dc9ba30f09a182465573c4e472a90d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/leaves_orange_transparent.png"
-dest_files=[ "res://.import/leaves_orange_transparent.png-b6d710780157c1bc3a7bed56ddc86e7c.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/leaves_orange_transparent.png"
+dest_files=[ "res://.import/leaves_orange_transparent.png-38dc9ba30f09a182465573c4e472a90d.stex" ]
 
 [params]
 

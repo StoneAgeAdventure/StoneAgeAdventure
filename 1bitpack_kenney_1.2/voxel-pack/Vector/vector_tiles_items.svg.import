@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vector_tiles_items.svg-81d68c47496f1069bac112d27e73c746.stex"
+path="res://.import/vector_tiles_items.svg-44cb86c4cb94c952f470ccef7e6b3a7a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/Vector/vector_tiles_items.svg"
-dest_files=[ "res://.import/vector_tiles_items.svg-81d68c47496f1069bac112d27e73c746.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/Vector/vector_tiles_items.svg"
+dest_files=[ "res://.import/vector_tiles_items.svg-44cb86c4cb94c952f470ccef7e6b3a7a.stex" ]
 
 [params]
 

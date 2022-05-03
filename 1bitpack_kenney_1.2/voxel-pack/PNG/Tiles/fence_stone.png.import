@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence_stone.png-739cb5a702fc896db9aaa16f6948d009.stex"
+path="res://.import/fence_stone.png-a1bd14ca3df1a59b7691565facf5ce1a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/fence_stone.png"
-dest_files=[ "res://.import/fence_stone.png-739cb5a702fc896db9aaa16f6948d009.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/fence_stone.png"
+dest_files=[ "res://.import/fence_stone.png-a1bd14ca3df1a59b7691565facf5ce1a.stex" ]
 
 [params]
 

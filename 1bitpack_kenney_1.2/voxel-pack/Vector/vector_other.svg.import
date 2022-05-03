@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vector_other.svg-04651f2b7475b14c45283821da563ad9.stex"
+path="res://.import/vector_other.svg-0236690f769da5fda5f5f007b6a06919.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/Vector/vector_other.svg"
-dest_files=[ "res://.import/vector_other.svg-04651f2b7475b14c45283821da563ad9.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/Vector/vector_other.svg"
+dest_files=[ "res://.import/vector_other.svg-0236690f769da5fda5f5f007b6a06919.stex" ]
 
 [params]
 

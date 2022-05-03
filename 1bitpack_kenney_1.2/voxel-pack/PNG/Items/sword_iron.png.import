@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sword_iron.png-48bd9f51b28dc1bce94fd43b273ad587.stex"
+path="res://.import/sword_iron.png-ff6d9abbca5daf06e299571ac5dea64f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/sword_iron.png"
-dest_files=[ "res://.import/sword_iron.png-48bd9f51b28dc1bce94fd43b273ad587.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/sword_iron.png"
+dest_files=[ "res://.import/sword_iron.png-ff6d9abbca5daf06e299571ac5dea64f.stex" ]
 
 [params]
 

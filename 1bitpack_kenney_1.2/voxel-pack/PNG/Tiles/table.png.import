@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/table.png-18b06abc874a14ab2a84c84b6fcd3c60.stex"
+path="res://.import/table.png-434d283284c8d296c7bb4974686e8eea.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/table.png"
-dest_files=[ "res://.import/table.png-18b06abc874a14ab2a84c84b6fcd3c60.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/table.png"
+dest_files=[ "res://.import/table.png-434d283284c8d296c7bb4974686e8eea.stex" ]
 
 [params]
 

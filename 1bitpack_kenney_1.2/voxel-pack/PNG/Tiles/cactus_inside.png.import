@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cactus_inside.png-47a929b5e5d2c1748e017f660a3ca1ca.stex"
+path="res://.import/cactus_inside.png-4e4049eb1b5af970ad2652ce3291f79e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/cactus_inside.png"
-dest_files=[ "res://.import/cactus_inside.png-47a929b5e5d2c1748e017f660a3ca1ca.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/cactus_inside.png"
+dest_files=[ "res://.import/cactus_inside.png-4e4049eb1b5af970ad2652ce3291f79e.stex" ]
 
 [params]
 

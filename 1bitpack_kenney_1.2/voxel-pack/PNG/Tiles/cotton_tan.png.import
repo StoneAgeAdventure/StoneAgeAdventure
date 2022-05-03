@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cotton_tan.png-0f517820acddf448ac20730524893ec7.stex"
+path="res://.import/cotton_tan.png-7f2770960d8d6aeca64faecc28b27798.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/cotton_tan.png"
-dest_files=[ "res://.import/cotton_tan.png-0f517820acddf448ac20730524893ec7.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/cotton_tan.png"
+dest_files=[ "res://.import/cotton_tan.png-7f2770960d8d6aeca64faecc28b27798.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hoe_iron.png-0ca1b6594d043f716300f5da5f0f80a9.stex"
+path="res://.import/hoe_iron.png-b388db5a1fb7562816d7bbf1d17396e0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/hoe_iron.png"
-dest_files=[ "res://.import/hoe_iron.png-0ca1b6594d043f716300f5da5f0f80a9.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hoe_iron.png"
+dest_files=[ "res://.import/hoe_iron.png-b388db5a1fb7562816d7bbf1d17396e0.stex" ]
 
 [params]
 

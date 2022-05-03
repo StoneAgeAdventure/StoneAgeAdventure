@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/glass_frame.png-a335bf77bd4ea5a01b5da760bad724cd.stex"
+path="res://.import/glass_frame.png-8009d204ce66c2a489f936b050114b96.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/glass_frame.png"
-dest_files=[ "res://.import/glass_frame.png-a335bf77bd4ea5a01b5da760bad724cd.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/glass_frame.png"
+dest_files=[ "res://.import/glass_frame.png-8009d204ce66c2a489f936b050114b96.stex" ]
 
 [params]
 

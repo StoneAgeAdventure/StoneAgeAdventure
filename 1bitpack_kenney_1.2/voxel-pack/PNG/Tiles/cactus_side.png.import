@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cactus_side.png-9de34cd2da271ac694cc65c5be6e8f63.stex"
+path="res://.import/cactus_side.png-ecaf57733fe392e4df02c9ede7d9b89e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/cactus_side.png"
-dest_files=[ "res://.import/cactus_side.png-9de34cd2da271ac694cc65c5be6e8f63.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/cactus_side.png"
+dest_files=[ "res://.import/cactus_side.png-ecaf57733fe392e4df02c9ede7d9b89e.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/swirl_red.png-89f58315e52bea4053457d9288a51dd7.stex"
+path="res://.import/swirl_red.png-b401070e815af6dc8025a0af2b9fe6a5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Particles/swirl_red.png"
-dest_files=[ "res://.import/swirl_red.png-89f58315e52bea4053457d9288a51dd7.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Particles/swirl_red.png"
+dest_files=[ "res://.import/swirl_red.png-b401070e815af6dc8025a0af2b9fe6a5.stex" ]
 
 [params]
 

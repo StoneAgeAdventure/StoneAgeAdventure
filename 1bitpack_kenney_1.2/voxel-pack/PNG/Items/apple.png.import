@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/apple.png-535db277953c2578e731b7eb3a7c6f90.stex"
+path="res://.import/apple.png-cb51ccb3575389f6e677582b1682cfd4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/apple.png"
-dest_files=[ "res://.import/apple.png-535db277953c2578e731b7eb3a7c6f90.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/apple.png"
+dest_files=[ "res://.import/apple.png-cb51ccb3575389f6e677582b1682cfd4.stex" ]
 
 [params]
 

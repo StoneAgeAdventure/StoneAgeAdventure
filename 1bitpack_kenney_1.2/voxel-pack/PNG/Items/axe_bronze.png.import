@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/axe_bronze.png-d96985ac000f47aa18f50c9b5f83e993.stex"
+path="res://.import/axe_bronze.png-30ddd8a5fe0ad319630d8f6f5f10a37d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/axe_bronze.png"
-dest_files=[ "res://.import/axe_bronze.png-d96985ac000f47aa18f50c9b5f83e993.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/axe_bronze.png"
+dest_files=[ "res://.import/axe_bronze.png-30ddd8a5fe0ad319630d8f6f5f10a37d.stex" ]
 
 [params]
 

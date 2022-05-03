@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flail_diamond.png-eb566c2e9c88b7002f2980df6d681a49.stex"
+path="res://.import/flail_diamond.png-f761bf30e4e97766ebcfd77543230a3d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/flail_diamond.png"
-dest_files=[ "res://.import/flail_diamond.png-eb566c2e9c88b7002f2980df6d681a49.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/flail_diamond.png"
+dest_files=[ "res://.import/flail_diamond.png-f761bf30e4e97766ebcfd77543230a3d.stex" ]
 
 [params]
 

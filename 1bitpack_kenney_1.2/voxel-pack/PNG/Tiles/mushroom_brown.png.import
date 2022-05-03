@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mushroom_brown.png-9d86d888f573258f87b2c898493fbeb4.stex"
+path="res://.import/mushroom_brown.png-41a4bec80bd6229bcc8df5f4ccf66190.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/mushroom_brown.png"
-dest_files=[ "res://.import/mushroom_brown.png-9d86d888f573258f87b2c898493fbeb4.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/mushroom_brown.png"
+dest_files=[ "res://.import/mushroom_brown.png-41a4bec80bd6229bcc8df5f4ccf66190.stex" ]
 
 [params]
 

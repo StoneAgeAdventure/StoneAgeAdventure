@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fish.png-6b9dc4ae418a624e069672bf6c6e6913.stex"
+path="res://.import/fish.png-d6ce08d5ff4eefb401fa76c612888184.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/fish.png"
-dest_files=[ "res://.import/fish.png-6b9dc4ae418a624e069672bf6c6e6913.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/fish.png"
+dest_files=[ "res://.import/fish.png-d6ce08d5ff4eefb401fa76c612888184.stex" ]
 
 [params]
 

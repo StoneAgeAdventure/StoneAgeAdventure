@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dirt_grass.png-040bad45e56667da9caf8588f3abeaab.stex"
+path="res://.import/dirt_grass.png-e302565c515a7c7d6b29359b0d333345.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/dirt_grass.png"
-dest_files=[ "res://.import/dirt_grass.png-040bad45e56667da9caf8588f3abeaab.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/dirt_grass.png"
+dest_files=[ "res://.import/dirt_grass.png-e302565c515a7c7d6b29359b0d333345.stex" ]
 
 [params]
 

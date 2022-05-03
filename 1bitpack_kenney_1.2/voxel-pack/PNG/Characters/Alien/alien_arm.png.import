@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_arm.png-711d8ccb44bc6925d8edf9559a8f095a.stex"
+path="res://.import/alien_arm.png-1a21441323a61ef6fc48a33b292429db.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Alien/alien_arm.png"
-dest_files=[ "res://.import/alien_arm.png-711d8ccb44bc6925d8edf9559a8f095a.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Alien/alien_arm.png"
+dest_files=[ "res://.import/alien_arm.png-1a21441323a61ef6fc48a33b292429db.stex" ]
 
 [params]
 

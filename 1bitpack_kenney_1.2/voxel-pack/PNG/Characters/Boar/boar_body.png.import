@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/boar_body.png-98e1cacdf5754f5ce15328d83b01ac51.stex"
+path="res://.import/boar_body.png-72b7298ce747c97238851808ab993484.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Boar/boar_body.png"
-dest_files=[ "res://.import/boar_body.png-98e1cacdf5754f5ce15328d83b01ac51.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Boar/boar_body.png"
+dest_files=[ "res://.import/boar_body.png-72b7298ce747c97238851808ab993484.stex" ]
 
 [params]
 

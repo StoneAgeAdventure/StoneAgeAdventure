@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/skeleton_arm.png-77ec9ecedc7cd71866af60eb29136902.stex"
+path="res://.import/skeleton_arm.png-1fd0f143dfbb27e2dc47e2a7418a7406.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Skeleton/skeleton_arm.png"
-dest_files=[ "res://.import/skeleton_arm.png-77ec9ecedc7cd71866af60eb29136902.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Skeleton/skeleton_arm.png"
+dest_files=[ "res://.import/skeleton_arm.png-1fd0f143dfbb27e2dc47e2a7418a7406.stex" ]
 
 [params]
 

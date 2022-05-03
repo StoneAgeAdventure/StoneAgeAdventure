@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dirt_snow.png-34c55d882b21de1b28501ab4711af6c9.stex"
+path="res://.import/dirt_snow.png-3c31903e4c3219e9448b966b314756a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/dirt_snow.png"
-dest_files=[ "res://.import/dirt_snow.png-34c55d882b21de1b28501ab4711af6c9.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/dirt_snow.png"
+dest_files=[ "res://.import/dirt_snow.png-3c31903e4c3219e9448b966b314756a4.stex" ]
 
 [params]
 

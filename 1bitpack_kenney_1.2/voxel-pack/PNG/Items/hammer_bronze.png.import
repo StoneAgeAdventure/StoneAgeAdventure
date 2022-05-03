@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hammer_bronze.png-d84a28245e25186121681cd1375e627a.stex"
+path="res://.import/hammer_bronze.png-5ee0debede55b91369c491021a66627a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/hammer_bronze.png"
-dest_files=[ "res://.import/hammer_bronze.png-d84a28245e25186121681cd1375e627a.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/hammer_bronze.png"
+dest_files=[ "res://.import/hammer_bronze.png-5ee0debede55b91369c491021a66627a.stex" ]
 
 [params]
 

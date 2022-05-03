@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/track_straight.png-2dcee18cbac31845c32540ebf371eb46.stex"
+path="res://.import/track_straight.png-827eafd52a6be1cb85507b45bec293b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/track_straight.png"
-dest_files=[ "res://.import/track_straight.png-2dcee18cbac31845c32540ebf371eb46.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/track_straight.png"
+dest_files=[ "res://.import/track_straight.png-827eafd52a6be1cb85507b45bec293b6.stex" ]
 
 [params]
 

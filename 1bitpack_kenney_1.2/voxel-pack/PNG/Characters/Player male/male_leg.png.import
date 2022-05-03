@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/male_leg.png-a13567e432b66623ed9eaf866c9b6acc.stex"
+path="res://.import/male_leg.png-0f2b0ffc1cbd7b4140c8ffb8384c82be.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Player male/male_leg.png"
-dest_files=[ "res://.import/male_leg.png-a13567e432b66623ed9eaf866c9b6acc.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Player male/male_leg.png"
+dest_files=[ "res://.import/male_leg.png-0f2b0ffc1cbd7b4140c8ffb8384c82be.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fox_body.png-5b6ae3237cfede5f297d8f09a2589aba.stex"
+path="res://.import/fox_body.png-516dcc66be8b9841314ed04c15e95fff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Fox/fox_body.png"
-dest_files=[ "res://.import/fox_body.png-5b6ae3237cfede5f297d8f09a2589aba.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Fox/fox_body.png"
+dest_files=[ "res://.import/fox_body.png-516dcc66be8b9841314ed04c15e95fff.stex" ]
 
 [params]
 

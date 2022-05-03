@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bowl.png-f215d267fa8d318a6b6d451e8deb0371.stex"
+path="res://.import/bowl.png-86c26471c5867cd7b9288df688611eb5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Items/bowl.png"
-dest_files=[ "res://.import/bowl.png-f215d267fa8d318a6b6d451e8deb0371.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/bowl.png"
+dest_files=[ "res://.import/bowl.png-86c26471c5867cd7b9288df688611eb5.stex" ]
 
 [params]
 

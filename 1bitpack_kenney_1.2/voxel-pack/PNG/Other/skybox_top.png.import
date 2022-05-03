@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/skybox_top.png-0a2da8ff6c39ab731b0d8a4a25c6ec6a.stex"
+path="res://.import/skybox_top.png-db2b6897b2ef6f87a92b4d3f450f1299.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Other/skybox_top.png"
-dest_files=[ "res://.import/skybox_top.png-0a2da8ff6c39ab731b0d8a4a25c6ec6a.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Other/skybox_top.png"
+dest_files=[ "res://.import/skybox_top.png-db2b6897b2ef6f87a92b4d3f450f1299.stex" ]
 
 [params]
 

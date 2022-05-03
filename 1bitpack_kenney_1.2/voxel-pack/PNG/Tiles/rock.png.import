@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rock.png-a152a3fab38dc156d984f1f46f2f1109.stex"
+path="res://.import/rock.png-3e175c2b467984289d3a9c01ae411550.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/rock.png"
-dest_files=[ "res://.import/rock.png-a152a3fab38dc156d984f1f46f2f1109.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/rock.png"
+dest_files=[ "res://.import/rock.png-3e175c2b467984289d3a9c01ae411550.stex" ]
 
 [params]
 

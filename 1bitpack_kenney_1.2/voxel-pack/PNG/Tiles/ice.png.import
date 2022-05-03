@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ice.png-d09b75734dee720bb3918ef2ef24c9ca.stex"
+path="res://.import/ice.png-b34ae2797ab0fcd48bc161ab2b4a7a01.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Tiles/ice.png"
-dest_files=[ "res://.import/ice.png-d09b75734dee720bb3918ef2ef24c9ca.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/ice.png"
+dest_files=[ "res://.import/ice.png-b34ae2797ab0fcd48bc161ab2b4a7a01.stex" ]
 
 [params]
 

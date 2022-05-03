@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/female_arm.png-909fc8bfc28e267162270e059f71b9af.stex"
+path="res://.import/female_arm.png-1baa554179ba69bdbedfc74a0796795b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/新增資料夾/voxel-pack/PNG/Characters/Player female/female_arm.png"
-dest_files=[ "res://.import/female_arm.png-909fc8bfc28e267162270e059f71b9af.stex" ]
+source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Player female/female_arm.png"
+dest_files=[ "res://.import/female_arm.png-1baa554179ba69bdbedfc74a0796795b.stex" ]
 
 [params]
 
