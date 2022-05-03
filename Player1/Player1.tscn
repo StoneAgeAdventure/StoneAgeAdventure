@@ -37,8 +37,7 @@ tracks/0/keys = {
 }
 
 [node name="Player" type="Sprite"]
-position = Vector2( 24, 24 )
-scale = Vector2( 2, 2 )
+position = Vector2( 12, 12 )
 z_index = 4000
 texture = ExtResource( 1 )
 hframes = 7
