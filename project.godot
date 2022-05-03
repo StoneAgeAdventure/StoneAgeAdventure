@@ -9,10 +9,10 @@
 config_version=4
 
 _global_script_classes=[ {
-"base": "Node2D",
+"base": "Sprite",
 "class": "Character",
 "language": "GDScript",
-"path": "res://class/character.gd"
+"path": "res://singleton/character.gd"
 } ]
 _global_script_class_icons={
 "Character": ""
