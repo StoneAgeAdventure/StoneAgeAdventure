@@ -1,5 +1,5 @@
 .import/
 *.translation
-export_presets.cfg
+*.cfg
 .mono/
 export/
