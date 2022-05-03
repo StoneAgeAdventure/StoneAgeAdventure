@@ -46,7 +46,6 @@ scale = Vector2( 4.25, 4.04167 )
 
 [node name="Player" type="Sprite" parent="."]
 position = Vector2( 12, 12 )
-
 texture = ExtResource( 1 )
 hframes = 7
 region_rect = Rect2( 144, 0, 32, 32 )

@@ -2,7 +2,7 @@ extends Sprite
 
 onready var _hp := 100
 onready var _sp := 100
-onready var _attack_power
+onready var _attack_power := 10
 
 func attack():
 	pass
