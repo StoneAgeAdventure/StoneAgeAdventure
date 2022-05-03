@@ -12,7 +12,7 @@ _global_script_classes=[ {
 "base": "Sprite",
 "class": "Character",
 "language": "GDScript",
-"path": "res://singleton/character.gd"
+"path": "res://class/character.gd"
 } ]
 _global_script_class_icons={
 "Character": ""

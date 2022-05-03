@@ -5,11 +5,11 @@ onready var _movement := [Direction.UP, Direction.DOWN, Direction.LEFT, Directio
 
 func _ready():
 	randomize()
-	set_speed(randf() * 2 + 3)
+	set_speed(randf() * 30 + 150)
 	$Timer.start()
 
 func _process(delta):
-	move(_moving)
+	move(_moving, delta)
 	match get_state():
 		State.MOVE:
 			$AnimationPlayer.play("move")
@@ -19,7 +19,7 @@ func _process(delta):
 			
 	
 func random_state():
-	set_speed(randf() * 2 + 3)
+	set_speed(randf() * 30 + 150)
 	if randi()%3 == 0:
 		_moving = _movement[randi() % len(_movement)]
 		if _moving == Direction.LEFT:

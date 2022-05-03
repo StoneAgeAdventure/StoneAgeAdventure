@@ -1,13 +1,15 @@
-extends Node2D
+extends Sprite
 
 class_name Character
 
-enum Direction {UP, DOWN, LEFT, RIGHT}
+enum Direction {UP, DOWN, LEFT, RIGHT, NONE}
+enum State {IDLE, MOVE, ATTACK, DAMAGED, DEATH}
 
 onready var _hp := 100
 onready var _sp := 100
 onready var _attack_point := 10
-onready var _speed := 4
+onready var _speed := 200.0
+onready var _state = State.IDLE
 
 func get_health() -> int:
 	return _hp
@@ -18,25 +20,37 @@ func get_stamina() -> int:
 func get_attack_point() -> int:
 	return _attack_point
 
-func get_speed() -> int:
+func get_speed() -> float:
 	return _speed
+
+func get_state():
+	return _state
 
 func set_attack_point(point: int):
 	_attack_point = point
 
-func set_speed(speed: int):
+func set_speed(speed: float):
 	_speed = speed
 
-func move(direction):
+func set_state(state):
+	_state = state
+
+func move(direction, process_delta: float):
 	match direction:
 		Direction.UP:
-			self.position.y -= _speed
+			self.position.y -= _speed * process_delta
+			set_state(State.MOVE)
 		Direction.DOWN:
-			self.position.y += _speed
+			self.position.y += _speed * process_delta
+			set_state(State.MOVE)
 		Direction.LEFT:
-			self.position.x -= _speed
+			self.position.x -= _speed * process_delta
+			set_state(State.MOVE)
 		Direction.RIGHT:
-			self.position.x += _speed
+			self.position.x += _speed * process_delta
+			set_state(State.MOVE)
+		Direction.NONE:
+			set_state(State.IDLE)
 		_:
 			print("unexpected direction")
 			assert(1 == 0)
@@ -50,4 +64,4 @@ func damage(hp: int):
 		death()
 
 func death():
-	pass
+	_state = State.DEATH
