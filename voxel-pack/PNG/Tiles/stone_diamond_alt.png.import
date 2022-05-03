@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_diamond_alt.png-40a3b59488f3c3513c76680f7a24f2bb.stex"
+path="res://.import/stone_diamond_alt.png-f3e4f89172aef91bf59342ef189fe7e2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_diamond_alt.png"
-dest_files=[ "res://.import/stone_diamond_alt.png-40a3b59488f3c3513c76680f7a24f2bb.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/stone_diamond_alt.png"
+dest_files=[ "res://.import/stone_diamond_alt.png-f3e4f89172aef91bf59342ef189fe7e2.stex" ]
 
 [params]
 

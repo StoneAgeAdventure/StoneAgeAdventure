@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/skybox_side.png-c220163f82cd62b4d9e67b73b19f9fcf.stex"
+path="res://.import/skybox_side.png-7ba7c60dd7be5401ca353ae9cf956e77.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Other/skybox_side.png"
-dest_files=[ "res://.import/skybox_side.png-c220163f82cd62b4d9e67b73b19f9fcf.stex" ]
+source_file="res://voxel-pack/PNG/Other/skybox_side.png"
+dest_files=[ "res://.import/skybox_side.png-7ba7c60dd7be5401ca353ae9cf956e77.stex" ]
 
 [params]
 

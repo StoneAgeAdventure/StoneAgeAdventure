@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/greystone_ruby_alt.png-5dc5fbd273034b2a2782c5b279612a03.stex"
+path="res://.import/greystone_ruby_alt.png-5f69a878b16cc541cb5749fd4ca4726b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/greystone_ruby_alt.png"
-dest_files=[ "res://.import/greystone_ruby_alt.png-5dc5fbd273034b2a2782c5b279612a03.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/greystone_ruby_alt.png"
+dest_files=[ "res://.import/greystone_ruby_alt.png-5f69a878b16cc541cb5749fd4ca4726b.stex" ]
 
 [params]
 

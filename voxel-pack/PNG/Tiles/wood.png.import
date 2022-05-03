@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wood.png-97b885863f3e2fbf00d580efc153e866.stex"
+path="res://.import/wood.png-fb126e98c98de35699112f9657b11387.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/wood.png"
-dest_files=[ "res://.import/wood.png-97b885863f3e2fbf00d580efc153e866.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/wood.png"
+dest_files=[ "res://.import/wood.png-fb126e98c98de35699112f9657b11387.stex" ]
 
 [params]
 

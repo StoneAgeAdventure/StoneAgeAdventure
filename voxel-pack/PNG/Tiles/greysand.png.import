@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/greysand.png-bb4571023396f9c246829adb18be4aa8.stex"
+path="res://.import/greysand.png-0c949ba47ac5103aa555133408e0bfd5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/greysand.png"
-dest_files=[ "res://.import/greysand.png-bb4571023396f9c246829adb18be4aa8.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/greysand.png"
+dest_files=[ "res://.import/greysand.png-0c949ba47ac5103aa555133408e0bfd5.stex" ]
 
 [params]
 

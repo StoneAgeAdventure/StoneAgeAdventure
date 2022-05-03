@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/axe_diamond.png-73b73aea83cd326d120971d481640b67.stex"
+path="res://.import/axe_diamond.png-c1de2a15df2cc51482d4c9ed3536456b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/axe_diamond.png"
-dest_files=[ "res://.import/axe_diamond.png-73b73aea83cd326d120971d481640b67.stex" ]
+source_file="res://voxel-pack/PNG/Items/axe_diamond.png"
+dest_files=[ "res://.import/axe_diamond.png-c1de2a15df2cc51482d4c9ed3536456b.stex" ]
 
 [params]
 

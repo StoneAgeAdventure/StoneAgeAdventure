@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_snow.png-8610d9ad35833d23a2ca6c0c268d6e5c.stex"
+path="res://.import/stone_snow.png-c93ec6e6f0f6324f302f367b0e970528.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_snow.png"
-dest_files=[ "res://.import/stone_snow.png-8610d9ad35833d23a2ca6c0c268d6e5c.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/stone_snow.png"
+dest_files=[ "res://.import/stone_snow.png-c93ec6e6f0f6324f302f367b0e970528.stex" ]
 
 [params]
 

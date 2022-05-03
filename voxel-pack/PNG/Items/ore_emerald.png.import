@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ore_emerald.png-a58b923c8eecc0dd429615247de245a7.stex"
+path="res://.import/ore_emerald.png-22cfd00d1d387859165a1c212fd40de0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/ore_emerald.png"
-dest_files=[ "res://.import/ore_emerald.png-a58b923c8eecc0dd429615247de245a7.stex" ]
+source_file="res://voxel-pack/PNG/Items/ore_emerald.png"
+dest_files=[ "res://.import/ore_emerald.png-22cfd00d1d387859165a1c212fd40de0.stex" ]
 
 [params]
 

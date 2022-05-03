@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stew.png-9645c8cf75b38de7025dc8ef6a5b10a1.stex"
+path="res://.import/stew.png-a326dca305b3200112e710b40a71b27f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/stew.png"
-dest_files=[ "res://.import/stew.png-9645c8cf75b38de7025dc8ef6a5b10a1.stex" ]
+source_file="res://voxel-pack/PNG/Items/stew.png"
+dest_files=[ "res://.import/stew.png-a326dca305b3200112e710b40a71b27f.stex" ]
 
 [params]
 

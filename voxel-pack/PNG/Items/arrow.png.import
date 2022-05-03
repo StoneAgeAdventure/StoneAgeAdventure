@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/arrow.png-5df7ea1ded01a3f5caba6b4bc640c6a9.stex"
+path="res://.import/arrow.png-eb1944618cc58df863a1d2d3ae4f2630.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/arrow.png"
-dest_files=[ "res://.import/arrow.png-5df7ea1ded01a3f5caba6b4bc640c6a9.stex" ]
+source_file="res://voxel-pack/PNG/Items/arrow.png"
+dest_files=[ "res://.import/arrow.png-eb1944618cc58df863a1d2d3ae4f2630.stex" ]
 
 [params]
 

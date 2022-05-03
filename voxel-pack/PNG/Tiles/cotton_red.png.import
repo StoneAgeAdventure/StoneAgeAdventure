@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cotton_red.png-42a6174cd0f393281a5d9055864c55ea.stex"
+path="res://.import/cotton_red.png-976d9d9a028de27ae5767783a5456178.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/cotton_red.png"
-dest_files=[ "res://.import/cotton_red.png-42a6174cd0f393281a5d9055864c55ea.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/cotton_red.png"
+dest_files=[ "res://.import/cotton_red.png-976d9d9a028de27ae5767783a5456178.stex" ]
 
 [params]
 

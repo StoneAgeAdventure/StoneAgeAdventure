@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fishingPole.png-37f9a5168107f48687596bebf733b854.stex"
+path="res://.import/fishingPole.png-fad86951145fa72fed6ce4f5cff69bfa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/fishingPole.png"
-dest_files=[ "res://.import/fishingPole.png-37f9a5168107f48687596bebf733b854.stex" ]
+source_file="res://voxel-pack/PNG/Items/fishingPole.png"
+dest_files=[ "res://.import/fishingPole.png-fad86951145fa72fed6ce4f5cff69bfa.stex" ]
 
 [params]
 

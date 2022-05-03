@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_browniron.png-1f96a30e0d1f0820a65e7ec2ff2cde39.stex"
+path="res://.import/stone_browniron.png-e022f56a78ee7f54241841b0482b2667.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/stone_browniron.png"
-dest_files=[ "res://.import/stone_browniron.png-1f96a30e0d1f0820a65e7ec2ff2cde39.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/stone_browniron.png"
+dest_files=[ "res://.import/stone_browniron.png-e022f56a78ee7f54241841b0482b2667.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sword_gold.png-6f1e484cac257186a9acd0c0aa929496.stex"
+path="res://.import/sword_gold.png-28a6935dbfa95b5ede2c15c6c47306ed.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/sword_gold.png"
-dest_files=[ "res://.import/sword_gold.png-6f1e484cac257186a9acd0c0aa929496.stex" ]
+source_file="res://voxel-pack/PNG/Items/sword_gold.png"
+dest_files=[ "res://.import/sword_gold.png-28a6935dbfa95b5ede2c15c6c47306ed.stex" ]
 
 [params]
 

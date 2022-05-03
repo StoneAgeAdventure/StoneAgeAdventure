@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/skeleton_head.png-5f2dc56e53842531f274ff3da940c494.stex"
+path="res://.import/skeleton_head.png-058512be9850a04c660ca635991d19ca.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Skeleton/skeleton_head.png"
-dest_files=[ "res://.import/skeleton_head.png-5f2dc56e53842531f274ff3da940c494.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Skeleton/skeleton_head.png"
+dest_files=[ "res://.import/skeleton_head.png-058512be9850a04c660ca635991d19ca.stex" ]
 
 [params]
 

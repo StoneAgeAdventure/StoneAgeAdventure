@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fox_ear.png-b7902f663320b4ef47e66722860e1754.stex"
+path="res://.import/fox_ear.png-6a2b484d268457c27938984f1d4e3b4f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Characters/Fox/fox_ear.png"
-dest_files=[ "res://.import/fox_ear.png-b7902f663320b4ef47e66722860e1754.stex" ]
+source_file="res://voxel-pack/PNG/Characters/Fox/fox_ear.png"
+dest_files=[ "res://.import/fox_ear.png-6a2b484d268457c27938984f1d4e3b4f.stex" ]
 
 [params]
 

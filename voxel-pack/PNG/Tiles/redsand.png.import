@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redsand.png-eb8c6c628804a9e3128ff6bce4fa8151.stex"
+path="res://.import/redsand.png-061ace880ca119e5a646f8acf86d2b40.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Tiles/redsand.png"
-dest_files=[ "res://.import/redsand.png-eb8c6c628804a9e3128ff6bce4fa8151.stex" ]
+source_file="res://voxel-pack/PNG/Tiles/redsand.png"
+dest_files=[ "res://.import/redsand.png-061ace880ca119e5a646f8acf86d2b40.stex" ]
 
 [params]
 

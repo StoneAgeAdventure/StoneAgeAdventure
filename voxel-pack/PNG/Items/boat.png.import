@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/boat.png-a0d3a2e9d4bbb1b1e23ba63f50c686d4.stex"
+path="res://.import/boat.png-454940edaa135ceaef33d356f3743d13.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/boat.png"
-dest_files=[ "res://.import/boat.png-a0d3a2e9d4bbb1b1e23ba63f50c686d4.stex" ]
+source_file="res://voxel-pack/PNG/Items/boat.png"
+dest_files=[ "res://.import/boat.png-454940edaa135ceaef33d356f3743d13.stex" ]
 
 [params]
 

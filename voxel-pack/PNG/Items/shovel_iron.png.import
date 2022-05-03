@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shovel_iron.png-9b3b7b6edd7a07ba9f3c02de538e6d2f.stex"
+path="res://.import/shovel_iron.png-4568c189b58b7c35bc28cc8affaef7e1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/shovel_iron.png"
-dest_files=[ "res://.import/shovel_iron.png-9b3b7b6edd7a07ba9f3c02de538e6d2f.stex" ]
+source_file="res://voxel-pack/PNG/Items/shovel_iron.png"
+dest_files=[ "res://.import/shovel_iron.png-4568c189b58b7c35bc28cc8affaef7e1.stex" ]
 
 [params]
 

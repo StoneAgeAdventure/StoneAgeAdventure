@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/axe_gold.png-97a9c9cfe07e9ba7e446fc44a7f8049c.stex"
+path="res://.import/axe_gold.png-82de66adf53f50b8952afbae0b8cdef6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/axe_gold.png"
-dest_files=[ "res://.import/axe_gold.png-97a9c9cfe07e9ba7e446fc44a7f8049c.stex" ]
+source_file="res://voxel-pack/PNG/Items/axe_gold.png"
+dest_files=[ "res://.import/axe_gold.png-82de66adf53f50b8952afbae0b8cdef6.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sword_diamond.png-ae2fc3dbda2ffc2a05a32c29afafca91.stex"
+path="res://.import/sword_diamond.png-f3e16c357deb52a45e1930452d0c4461.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1bitpack_kenney_1.2/voxel-pack/PNG/Items/sword_diamond.png"
-dest_files=[ "res://.import/sword_diamond.png-ae2fc3dbda2ffc2a05a32c29afafca91.stex" ]
+source_file="res://voxel-pack/PNG/Items/sword_diamond.png"
+dest_files=[ "res://.import/sword_diamond.png-f3e16c357deb52a45e1930452d0c4461.stex" ]
 
 [params]
 
