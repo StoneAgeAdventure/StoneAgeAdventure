@@ -4,7 +4,7 @@
 [ext_resource path="res://GameMap/TileMap.tscn" type="PackedScene" id=2]
 [ext_resource path="res://character_dinosaur_blue/DinosaurBlue.tscn" type="PackedScene" id=3]
 [ext_resource path="res://main/main.gd" type="Script" id=4]
-[ext_resource path="res://main/camera.gd" type="Script" id=5]
+[ext_resource path="res://camera/Camera2D.tscn" type="PackedScene" id=5]
 
 [node name="Main" type="Control"]
 anchor_right = 1.0
@@ -25,9 +25,7 @@ position = Vector2( 541, 380 )
 [node name="Dino3" parent="." instance=ExtResource( 3 )]
 position = Vector2( 366, 140 )
 
-[node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2( 360, 302 )
+[node name="Camera2D" parent="." instance=ExtResource( 5 )]
 current = true
 zoom = Vector2( 0.7, 0.7 )
-smoothing_enabled = true
-script = ExtResource( 5 )
+target_path = NodePath("../Player")
