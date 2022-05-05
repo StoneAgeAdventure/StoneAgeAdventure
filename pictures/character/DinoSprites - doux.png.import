@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hills.png-af97e7d1821314016e8cd9534ee7a1a4.stex"
+path="res://.import/DinoSprites - doux.png-53b11f66f0259edfd6bc19d4d4757f8b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Map/Hills.png"
-dest_files=[ "res://.import/Hills.png-af97e7d1821314016e8cd9534ee7a1a4.stex" ]
+source_file="res://pictures/character/DinoSprites - doux.png"
+dest_files=[ "res://.import/DinoSprites - doux.png-53b11f66f0259edfd6bc19d4d4757f8b.stex" ]
 
 [params]
 

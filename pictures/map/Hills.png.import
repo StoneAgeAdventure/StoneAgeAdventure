@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gabe-idle-run.png-c47007d6eeefd40cbc34582da3cefe36.stex"
+path="res://.import/Hills.png-88fc113c7c11ee32acd29020baa69bab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character_picture/gabe-idle-run.png"
-dest_files=[ "res://.import/gabe-idle-run.png-c47007d6eeefd40cbc34582da3cefe36.stex" ]
+source_file="res://pictures/map/Hills.png"
+dest_files=[ "res://.import/Hills.png-88fc113c7c11ee32acd29020baa69bab.stex" ]
 
 [params]
 

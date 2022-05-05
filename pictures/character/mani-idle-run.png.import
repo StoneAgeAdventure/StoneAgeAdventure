@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Paths.png-7ae7d1ec8dc65cfed90682179c1f97f6.stex"
+path="res://.import/mani-idle-run.png-037f1e773588a7bc303f1af44cc31bac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Map/Paths.png"
-dest_files=[ "res://.import/Paths.png-7ae7d1ec8dc65cfed90682179c1f97f6.stex" ]
+source_file="res://pictures/character/mani-idle-run.png"
+dest_files=[ "res://.import/mani-idle-run.png-037f1e773588a7bc303f1af44cc31bac.stex" ]
 
 [params]
 

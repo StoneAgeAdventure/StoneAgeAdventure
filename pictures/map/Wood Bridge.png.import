@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Basic Grass Biom things 1.png-7e51c946984a408fe24a94ebfb607667.stex"
+path="res://.import/Wood Bridge.png-d63deef4dffcf02ea984d4b7bae982ba.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Map/Basic Grass Biom things 1.png"
-dest_files=[ "res://.import/Basic Grass Biom things 1.png-7e51c946984a408fe24a94ebfb607667.stex" ]
+source_file="res://pictures/map/Wood Bridge.png"
+dest_files=[ "res://.import/Wood Bridge.png-d63deef4dffcf02ea984d4b7bae982ba.stex" ]
 
 [params]
 

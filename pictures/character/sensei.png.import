@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wooden House.png-413847678a5af384108c31c1f494d3ed.stex"
+path="res://.import/sensei.png-fd9fb8fcce44eacf7e111bb81de747a8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Map/Wooden House.png"
-dest_files=[ "res://.import/Wooden House.png-413847678a5af384108c31c1f494d3ed.stex" ]
+source_file="res://pictures/character/sensei.png"
+dest_files=[ "res://.import/sensei.png-fd9fb8fcce44eacf7e111bb81de747a8.stex" ]
 
 [params]
 
