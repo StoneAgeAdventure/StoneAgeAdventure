@@ -16,7 +16,6 @@ func _process(delta):
 		State.IDLE:
 			$AnimationPlayer.stop(true)
 			self.frame = 0
-			
 	
 func random_state():
 	set_speed(randf() * 30 + 150)
