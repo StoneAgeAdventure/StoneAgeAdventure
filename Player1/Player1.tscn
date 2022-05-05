@@ -4,7 +4,7 @@
 [ext_resource path="res://Player1/Player.gd" type="Script" id=2]
 
 [sub_resource type="RectangleShape2D" id=3]
-extents = Vector2( 6.5, 2.5 )
+extents = Vector2( 3.6875, 3.375 )
 
 [sub_resource type="Animation" id=1]
 length = 0.001
@@ -43,7 +43,7 @@ tracks/0/keys = {
 script = ExtResource( 2 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( 11, 18 )
+position = Vector2( 11, 16 )
 shape = SubResource( 3 )
 
 [node name="Sprite" type="Sprite" parent="."]
