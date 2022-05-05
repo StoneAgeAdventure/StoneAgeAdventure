@@ -26,7 +26,6 @@ func _process(delta):
 	
 	match get_state():
 		State.IDLE:
-			pass
 			$AnimationPlayer.stop(true)
 			self.frame = 0
 		State.MOVE:
