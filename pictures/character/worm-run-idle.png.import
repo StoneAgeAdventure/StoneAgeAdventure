@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slime-green.png-088d922febe7e192e4d5501d76707af0.stex"
+path="res://.import/worm-run-idle.png-bb888f94e211af3c661484580671e408.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character_picture/slime-green.png"
-dest_files=[ "res://.import/slime-green.png-088d922febe7e192e4d5501d76707af0.stex" ]
+source_file="res://pictures/character/worm-run-idle.png"
+dest_files=[ "res://.import/worm-run-idle.png-bb888f94e211af3c661484580671e408.stex" ]
 
 [params]
 

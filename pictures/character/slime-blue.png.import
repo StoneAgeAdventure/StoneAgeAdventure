@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DinoSprites - vita.png-c3297a7a769ee6c736a2b330b799c09e.stex"
+path="res://.import/slime-blue.png-0870a4fbd0db47925927fa33688b313f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character_picture/DinoSprites - vita.png"
-dest_files=[ "res://.import/DinoSprites - vita.png-c3297a7a769ee6c736a2b330b799c09e.stex" ]
+source_file="res://pictures/character/slime-blue.png"
+dest_files=[ "res://.import/slime-blue.png-0870a4fbd0db47925927fa33688b313f.stex" ]
 
 [params]
 

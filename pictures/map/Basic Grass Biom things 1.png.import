@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DinoSprites - mort.png-376ae612bdfab3a89d2a9dc1461f2081.stex"
+path="res://.import/Basic Grass Biom things 1.png-cd147dcaf9b515217fdb45add88f2fa3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character_picture/DinoSprites - mort.png"
-dest_files=[ "res://.import/DinoSprites - mort.png-376ae612bdfab3a89d2a9dc1461f2081.stex" ]
+source_file="res://pictures/map/Basic Grass Biom things 1.png"
+dest_files=[ "res://.import/Basic Grass Biom things 1.png-cd147dcaf9b515217fdb45add88f2fa3.stex" ]
 
 [params]
 
