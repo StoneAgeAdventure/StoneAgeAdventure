@@ -2,7 +2,6 @@ extends KinematicBody2D
 
 class_name Character
 
-enum Direction {UP, DOWN, LEFT, RIGHT, NONE}
 enum State {IDLE, MOVE, ATTACK, DAMAGED, DEATH}
 
 onready var _hp := 100
@@ -35,8 +34,8 @@ func set_speed(speed: float):
 func set_state(state):
 	_state = state
 
-func move(dist: Vector2, process_delta: float):
-	move_and_slide(dist)
+func move(dist: Vector2):
+	var _tmp := move_and_slide(dist)
 	if dist != Vector2.ZERO:
 		_state = State.MOVE
 	else:

@@ -1,7 +1,7 @@
 [gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://pictures/character/DinoSprites - doux.png" type="Texture" id=1]
-[ext_resource path="res://character_dinosaur_blue/dinosaur_blue.gd" type="Script" id=2]
+[ext_resource path="res://character_dinosaur_blue/DinosaurBlue.gd" type="Script" id=3]
 
 [sub_resource type="CapsuleShape2D" id=7]
 radius = 7.0
@@ -103,7 +103,8 @@ tracks/0/keys = {
 "values": [ 1, 2 ]
 }
 
-[node name="Dino" type="StaticBody2D"]
+[node name="Dino" type="KinematicBody2D"]
+script = ExtResource( 3 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( 12, 12 )
@@ -114,7 +115,6 @@ position = Vector2( 12, 12 )
 texture = ExtResource( 1 )
 hframes = 24
 frame = 2
-script = ExtResource( 2 )
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Dino"]
 anims/RESET = SubResource( 1 )
@@ -127,4 +127,4 @@ anims/stand = SubResource( 6 )
 wait_time = 0.5
 autostart = true
 
-[connection signal="timeout" from="Dino/Timer" to="Dino" method="_on_Timer_timeout"]
+[connection signal="timeout" from="Dino/Timer" to="." method="_on_Timer_timeout"]
