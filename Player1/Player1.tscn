@@ -10,7 +10,7 @@ height = 2.0
 [sub_resource type="GDScript" id=4]
 script/source = "extends Character
 
-signal hit
+
 func _ready():
 	set_speed(200.0)
 
