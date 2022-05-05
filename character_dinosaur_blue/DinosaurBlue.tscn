@@ -91,7 +91,7 @@ tracks/0/keys = {
 "values": [ 1, 2 ]
 }
 
-[node name="Dino" type="RigidBody2D"]
+[node name="Dino" type="StaticBody2D"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( 12, 12 )

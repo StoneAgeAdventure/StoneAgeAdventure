@@ -1,4 +1,4 @@
-extends Sprite
+extends KinematicBody2D
 
 class_name Character
 
@@ -35,26 +35,13 @@ func set_speed(speed: float):
 func set_state(state):
 	_state = state
 
-func move(direction, process_delta: float):
-	match direction:
-		Direction.UP:
-			self.position.y -= _speed * process_delta
-			set_state(State.MOVE)
-		Direction.DOWN:
-			self.position.y += _speed * process_delta
-			set_state(State.MOVE)
-		Direction.LEFT:
-			self.position.x -= _speed * process_delta
-			set_state(State.MOVE)
-		Direction.RIGHT:
-			self.position.x += _speed * process_delta
-			set_state(State.MOVE)
-		Direction.NONE:
-			set_state(State.IDLE)
-		_:
-			print("unexpected direction")
-			assert(1 == 0)
-
+func move(dist: Vector2, process_delta: float):
+	move_and_slide(dist)
+	if dist != Vector2.ZERO:
+		_state = State.MOVE
+	else:
+		_state = State.IDLE
+		
 func attack(ch: Character):
 	ch.damage(_attack_point)
 
