@@ -5,7 +5,7 @@ onready var animation_player := $Sprite/AnimationPlayer
 
 func _ready():
 	assert(sprite and animation_player)
-	set_speed(100.0)
+	set_speed(75.0)
 
 func _process(_delta):
 	var pressed := false
