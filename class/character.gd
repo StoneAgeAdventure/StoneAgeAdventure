@@ -43,6 +43,7 @@ func move(dist: Vector2):
 		
 func attack(ch: Character):
 	ch.damage(_attack_point)
+	
 
 func damage(hp: int):
 	_hp -= hp

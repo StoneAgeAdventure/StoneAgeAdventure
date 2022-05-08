@@ -1,0 +1,36 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://settings/GameSetting.gd" type="Script" id=1]
+[ext_resource path="res://settings/GameSettingPanel.tscn" type="PackedScene" id=2]
+[ext_resource path="res://pictures/settings/setting_icon.png" type="Texture" id=3]
+
+[sub_resource type="InputEventAction" id=3]
+action = "esc"
+
+[sub_resource type="ShortCut" id=2]
+shortcut = SubResource( 3 )
+
+[node name="GameSetting" type="Node2D"]
+scale = Vector2( 0.5, 0.5 )
+script = ExtResource( 1 )
+
+[node name="GameSettingPanel" parent="." instance=ExtResource( 2 )]
+margin_left = 374.0
+margin_top = 197.0
+margin_right = 606.0
+margin_bottom = 373.0
+
+[node name="SettingButton" type="ToolButton" parent="."]
+margin_left = 3.0
+margin_top = 554.0
+margin_right = 2310.0
+margin_bottom = 2857.0
+rect_scale = Vector2( 0.02, 0.02 )
+focus_mode = 0
+action_mode = 0
+enabled_focus_mode = 0
+shortcut = SubResource( 2 )
+icon = ExtResource( 3 )
+
+[connection signal="apply_button_press" from="GameSettingPanel" to="." method="_on_GameSettingPanel_apply_button_press"]
+[connection signal="pressed" from="SettingButton" to="." method="_on_SettingButton_pressed"]

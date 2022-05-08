@@ -1,0 +1,48 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://settings/HBoxContainer.tscn" type="PackedScene" id=1]
+[ext_resource path="res://settings/GameSettingPanel.gd" type="Script" id=2]
+
+[node name="GameSettingPanel" type="Panel"]
+margin_right = 238.0
+margin_bottom = 172.0
+script = ExtResource( 2 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+margin_right = 237.0
+margin_bottom = 173.0
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+margin_right = 237.0
+margin_bottom = 31.0
+text = "Game Settings
+"
+align = 1
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer"]
+margin_top = 35.0
+margin_right = 237.0
+margin_bottom = 39.0
+
+[node name="Vsync" parent="VBoxContainer" instance=ExtResource( 1 )]
+margin_top = 43.0
+margin_right = 237.0
+margin_bottom = 67.0
+title = "Vsync"
+
+[node name="UIFullScreen" parent="VBoxContainer" instance=ExtResource( 1 )]
+margin_top = 71.0
+margin_right = 237.0
+margin_bottom = 95.0
+title = "UIFullScreen"
+
+[node name="ApplyButtton" type="Button" parent="."]
+margin_left = 48.0
+margin_top = 136.0
+margin_right = 178.0
+margin_bottom = 158.0
+text = "Apply"
+
+[connection signal="toggled" from="VBoxContainer/Vsync" to="." method="_on_Vsync_toggled"]
+[connection signal="toggled" from="VBoxContainer/UIFullScreen" to="." method="_on_UIFullScreen_toggled"]
+[connection signal="pressed" from="ApplyButtton" to="." method="_on_ApplyButtton_pressed"]
