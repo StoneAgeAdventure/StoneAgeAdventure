@@ -1,4 +1,4 @@
-[gd_scene load_steps=152 format=2]
+[gd_scene load_steps=151 format=2]
 
 [ext_resource path="res://pictures/map/Grass.png" type="Texture" id=1]
 [ext_resource path="res://pictures/map/Water.png" type="Texture" id=2]
@@ -7,7 +7,6 @@
 [ext_resource path="res://pictures/map/Wood Bridge.png" type="Texture" id=5]
 [ext_resource path="res://GameMap/MainWorld.gd" type="Script" id=6]
 [ext_resource path="res://pictures/map/Tilled Dirt.png" type="Texture" id=7]
-[ext_resource path="res://pictures/box.png" type="Texture" id=8]
 [ext_resource path="res://characters/Player1/Player1.tscn" type="PackedScene" id=9]
 
 [sub_resource type="ConvexPolygonShape2D" id=11]
@@ -3815,11 +3814,6 @@ cell_size = Vector2( 16, 16 )
 show_collision = true
 format = 1
 tile_data = PoolIntArray( 720921, 16, 0, 720922, 17, 0, 720923, 17, 0, 720924, 17, 0, 720925, 17, 0, 720926, 18, 0 )
-
-[node name="Box1" type="Sprite" parent="."]
-position = Vector2( 938, 759.333 )
-scale = Vector2( 0.5, 0.5 )
-texture = ExtResource( 8 )
 
 [node name="Player" parent="." instance=ExtResource( 9 )]
 visible = false
