@@ -1,8 +1,9 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://shop/ShopBoard.tscn" type="PackedScene" id=1]
 [ext_resource path="res://accessary/Accessary.tscn" type="PackedScene" id=2]
 [ext_resource path="res://shop/Shop.gd" type="Script" id=3]
+[ext_resource path="res://shop/AccessaryDocument.tscn" type="PackedScene" id=4]
 
 [node name="Shop" type="Control"]
 script = ExtResource( 3 )
@@ -11,3 +12,7 @@ script = ExtResource( 3 )
 position = Vector2( 42, 66 )
 
 [node name="Accessary" parent="ShopBoard" instance=ExtResource( 2 )]
+
+[node name="AccessaryDocument" parent="." instance=ExtResource( 4 )]
+
+[connection signal="buy" from="AccessaryDocument" to="." method="_on_AccessaryDocument_buy"]

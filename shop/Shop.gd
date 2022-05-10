@@ -1,11 +1,39 @@
 extends Control
 
 onready var _accessary = $ShopBoard/Accessary
-var board_x
-var board_y
+onready var _shop_board = $ShopBoard
+onready var _accessary_document = $AccessaryDocument
+var _board_x
+var _board_y
+var _mouse_click_position: Vector2 #mouse_click_position - board left-up position
+const CELL_LENGTH : int = 32
+var _accessary_detail = ["棍子","銀劍","劍","銀劍","劍","銀劍","劍","銀劍","劍","銀劍","劍"]
 
 func _ready():
-	board_x = anchor_left
-	board_y = anchor_right
-	print(String(board_x)+String(board_y))
-	_accessary.set_cellv(Vector2(10,10), 10)
+	_board_x = _shop_board.position.x
+	_board_y = _shop_board.position.y
+	_accessary_document.hide()
+	for i in range(1,10):
+		_accessary.set_cellv(Vector2(i,1),i)
+
+func _process(_delta):
+	if Input.is_action_pressed("mouse_click"):
+		_mouse_click_position = get_local_mouse_position() - Vector2(_board_x,_board_y)
+		
+		_accessary_document.set_text(_accessary_detail[_within_cell().x])
+		_accessary_document.show()
+		
+	
+	
+	
+func _within_cell() -> Vector2:
+	var x_axis = int(_mouse_click_position.x) / CELL_LENGTH
+	var y_axis = int(_mouse_click_position.y) / CELL_LENGTH
+	return Vector2(x_axis,y_axis)
+
+
+	
+
+
+func _on_AccessaryDocument_buy():
+	pass # Replace with function body.
