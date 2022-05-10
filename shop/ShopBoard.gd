@@ -1,7 +1,7 @@
 extends TileMap
 
-signal choosePage1()
-signal chhosePage2()
+signal choose_page1()
+signal choose_page2()
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
@@ -15,10 +15,10 @@ func _ready():
 func _on_choosePage1_pressed():
 	_page1.show()
 	_page2.hide()
-	emit_signal("choosePage1")
+	emit_signal("choose_page1")
 
 
 func _on_choosePage2_pressed():
 	_page2.show()
 	_page1.hide()
-	emit_signal("choosePage1")
+	emit_signal("choose_page2")
