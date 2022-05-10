@@ -4,8 +4,9 @@
 [ext_resource path="res://characters/Player1/Player.gd" type="Script" id=2]
 [ext_resource path="res://pictures/character/player-attack4.0.png" type="Texture" id=3]
 
-[sub_resource type="RectangleShape2D" id=3]
-extents = Vector2( 3.6875, 3.375 )
+[sub_resource type="CapsuleShape2D" id=5]
+radius = 2.0
+height = 6.0
 
 [sub_resource type="Animation" id=1]
 length = 0.001
@@ -84,8 +85,9 @@ tracks/0/keys = {
 script = ExtResource( 2 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( 11, 16 )
-shape = SubResource( 3 )
+position = Vector2( 12, 19 )
+rotation = 1.5708
+shape = SubResource( 5 )
 
 [node name="Sprite2" type="Sprite" parent="."]
 position = Vector2( 14, 11 )
