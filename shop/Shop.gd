@@ -1,7 +1,11 @@
-extends Node2D
+extends Control
 
-onready var _accessary = $Control/ShopBoard/Accessary
+onready var _accessary = $ShopBoard/Accessary
+var board_x
+var board_y
 
 func _ready():
-	print("s")
-	_accessary.set_cell(200,200, 10)
+	board_x = anchor_left
+	board_y = anchor_right
+	print(String(board_x)+String(board_y))
+	_accessary.set_cellv(Vector2(10,10), 10)
