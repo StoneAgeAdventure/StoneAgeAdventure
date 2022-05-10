@@ -1,4 +1,4 @@
-extends Node2D
+extends Control
 
 onready var gameSettingPanel = $GameSettingPanel
 func update_settings(settings: Dictionary) -> void:
