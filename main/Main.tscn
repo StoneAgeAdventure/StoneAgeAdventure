@@ -10,6 +10,10 @@
 [node name="Main" type="Control"]
 anchor_right = 1.0
 anchor_bottom = 1.0
+margin_left = 12.0
+margin_top = -8.0
+margin_right = 12.0
+margin_bottom = -8.0
 script = ExtResource( 4 )
 
 [node name="Sea" parent="." instance=ExtResource( 2 )]
@@ -21,13 +25,52 @@ tile_data = PoolIntArray( 0, 69, 0, 2, 69, 0, 4, 69, 0, 6, 69, 0, 8, 69, 0, 10, 
 position = Vector2( 181, 105 )
 
 [node name="Dino" parent="." instance=ExtResource( 3 )]
-position = Vector2( 360, 242 )
+position = Vector2( 182, 337 )
 
 [node name="Dino2" parent="." instance=ExtResource( 3 )]
 position = Vector2( 292, 174 )
 
 [node name="Dino3" parent="." instance=ExtResource( 3 )]
-position = Vector2( 342, 332 )
+position = Vector2( 293, 371 )
+
+[node name="Dino4" parent="." instance=ExtResource( 3 )]
+position = Vector2( 302, 287 )
+
+[node name="Dino5" parent="." instance=ExtResource( 3 )]
+position = Vector2( 383, 211 )
+
+[node name="Dino7" parent="." instance=ExtResource( 3 )]
+position = Vector2( 368, 261 )
+
+[node name="Dino8" parent="." instance=ExtResource( 3 )]
+position = Vector2( 324, 242 )
+
+[node name="Dino9" parent="." instance=ExtResource( 3 )]
+position = Vector2( 304, 208 )
+
+[node name="Dino6" parent="." instance=ExtResource( 3 )]
+position = Vector2( 319, 322 )
+
+[node name="Dino10" parent="." instance=ExtResource( 3 )]
+position = Vector2( 291, 333 )
+
+[node name="Dino11" parent="." instance=ExtResource( 3 )]
+position = Vector2( 347, 341 )
+
+[node name="Dino12" parent="." instance=ExtResource( 3 )]
+position = Vector2( 256, 344 )
+
+[node name="Dino13" parent="." instance=ExtResource( 3 )]
+position = Vector2( 264, 299 )
+
+[node name="Dino14" parent="." instance=ExtResource( 3 )]
+position = Vector2( 280, 237 )
+
+[node name="Dino15" parent="." instance=ExtResource( 3 )]
+position = Vector2( 337, 300 )
+
+[node name="Dino16" parent="." instance=ExtResource( 3 )]
+position = Vector2( 369, 296 )
 
 [node name="Camera2D" parent="." instance=ExtResource( 5 )]
 position = Vector2( 362, 244 )
@@ -39,4 +82,5 @@ target_path = NodePath("../Player")
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
 [node name="GameSetting" parent="CanvasLayer" instance=ExtResource( 6 )]
+visible = false
 rect_scale = Vector2( 0.888889, 1.02798 )
