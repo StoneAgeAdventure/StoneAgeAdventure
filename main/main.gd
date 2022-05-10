@@ -1,4 +1,4 @@
 extends Control
 
 func _ready():
-	pass
+	Debug.debug = true

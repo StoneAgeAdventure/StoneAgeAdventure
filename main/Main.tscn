@@ -29,14 +29,14 @@ position = Vector2( 292, 174 )
 [node name="Dino3" parent="." instance=ExtResource( 3 )]
 position = Vector2( 342, 332 )
 
-[node name="GameSetting" parent="." instance=ExtResource( 6 )]
-margin_left = 110.0
-margin_top = -208.0
-margin_right = 110.0
-margin_bottom = -208.0
-
 [node name="Camera2D" parent="." instance=ExtResource( 5 )]
 position = Vector2( 362, 244 )
+scale = Vector2( 0.963533, 0.904041 )
 current = true
 zoom = Vector2( 0.5, 0.5 )
 target_path = NodePath("../Player")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="GameSetting" parent="CanvasLayer" instance=ExtResource( 6 )]
+rect_scale = Vector2( 0.888889, 1.02798 )
