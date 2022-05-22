@@ -26,7 +26,7 @@ config/icon="res://icon.png"
 
 [autoload]
 
-Debug="*res://singleton/debug.gd"
+Debug="*res://singleton/debug.tscn"
 
 [display]
 

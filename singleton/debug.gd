@@ -1,13 +1,7 @@
 extends CanvasLayer
 
-onready var _screen_width := get_viewport().size.x
-onready var _label := Label.new()
-
-var debug: bool
-
-func _ready():
-	_label.rect_position = Vector2(1200, 0)
-	add_child(_label)
+export var debug: bool = true
+onready var _label = $Panel/Label
 
 func _process(_delta):
 	if debug: 
