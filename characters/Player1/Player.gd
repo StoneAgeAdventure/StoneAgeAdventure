@@ -4,8 +4,12 @@ onready var sprite := $Sprite
 onready var sprite2 := $Sprite2
 onready var animation_player := $Sprite/AnimationPlayer
 onready var timer := $Timer
-var pressed: bool
+onready var bullet_shoot = $BulletShoot
+onready var Bullet = preload("res://bullet/Bullet.tscn")
 
+var shooting = false
+var pressed: bool
+var shoot_time :float
 func _ready():
 	assert(sprite and animation_player)
 	set_speed(75.0)
@@ -14,7 +18,7 @@ func _ready():
 func _process(_delta):
 	if get_state() == State.ATTACK:
 		return
-	
+	var shoot = Input.is_action_pressed("shoot")
 	pressed = false
 	if Input.is_action_pressed("move_left"):
 		sprite.flip_h = true
@@ -35,7 +39,9 @@ func _process(_delta):
 	if Input.is_action_pressed("attack") and get_state() != State.ATTACK:
 		set_state(State.ATTACK)
 		pressed = true
-		
+	elif shoot and not shooting:
+			call_deferred("_shoot_bullet")
+	shooting = shoot
 	if not pressed:
 		set_state(State.IDLE)
 		
@@ -56,3 +62,23 @@ func _process(_delta):
 
 func _on_Timer_timeout():
 	set_state(State.IDLE)
+
+func _on_Area2D_body_entered(body):
+	if body is Dino:
+		print(body)
+		
+func _shoot_bullet():
+	print("shoot")
+	shoot_time = 0
+	var bi = Bullet.instance()
+	var ss
+	if sprite.flip_h == true:
+		ss = -1
+	else:
+		ss = 1
+	var pos = position + bullet_shoot.position * Vector2(ss, 1.0)
+	bi.position = pos
+	get_parent().add_child(bi)
+	bi.linear_velocity = Vector2(400*ss,1)
+	add_collision_exception_with(bi)
+	

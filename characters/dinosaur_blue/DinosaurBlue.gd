@@ -1,5 +1,5 @@
 extends Character
-
+class_name Dino
 var _moving := Vector2()
 
 onready var sprite := $Dino
