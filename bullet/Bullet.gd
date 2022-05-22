@@ -14,3 +14,4 @@ func _on_Timer_timeout():
 		return
 	self.queue_free()
 	disabled = true
+

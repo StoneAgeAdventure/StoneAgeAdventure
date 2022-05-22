@@ -63,22 +63,23 @@ func _process(_delta):
 func _on_Timer_timeout():
 	set_state(State.IDLE)
 
-func _on_Area2D_body_entered(body):
+func _on_Area2D_body_entered(body):#
 	if body is Dino:
-		print(body)
+		print("hit by Dino")
 		
 func _shoot_bullet():
-	print("shoot")
 	shoot_time = 0
 	var bi = Bullet.instance()
 	var ss
 	if sprite.flip_h == true:
+		(bi as Bullet).scale.x = -1
 		ss = -1
 	else:
 		ss = 1
+	bi.get_node("Sprite/AnimationPlayer").play("shoot")
 	var pos = position + bullet_shoot.position * Vector2(ss, 1.0)
 	bi.position = pos
 	get_parent().add_child(bi)
-	bi.linear_velocity = Vector2(400*ss,1)
+	bi.linear_velocity = Vector2(200*ss,1)
 	add_collision_exception_with(bi)
 	
