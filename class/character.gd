@@ -3,7 +3,6 @@ extends KinematicBody2D
 class_name Character
 
 enum State {IDLE, MOVE, ATTACK, DAMAGED, DEATH}
-
 onready var _hp := 100
 onready var _sp := 100
 onready var _attack_point := 10

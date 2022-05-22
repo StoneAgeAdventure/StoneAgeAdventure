@@ -14,5 +14,9 @@ position = Vector2( 42, 66 )
 [node name="Accessary" parent="ShopBoard" instance=ExtResource( 2 )]
 
 [node name="AccessaryDocument" parent="." instance=ExtResource( 4 )]
+margin_left = 88.0
+margin_top = 26.0
+margin_right = 539.0
+margin_bottom = 346.0
 
 [connection signal="buy" from="AccessaryDocument" to="." method="_on_AccessaryDocument_buy"]

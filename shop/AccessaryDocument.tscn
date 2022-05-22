@@ -18,9 +18,9 @@ margin_bottom = 269.0
 theme = ExtResource( 2 )
 
 [node name="RichTextLabel" type="RichTextLabel" parent="Panel"]
-margin_left = 28.0
-margin_top = -51.0
-margin_right = 254.0
+margin_left = 8.0
+margin_top = 10.0
+margin_right = 234.0
 margin_bottom = 128.0
 tab_size = 2
 
