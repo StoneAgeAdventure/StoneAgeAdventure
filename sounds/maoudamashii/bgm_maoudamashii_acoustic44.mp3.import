@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bgm_maoudamashii_acoustic44.mp3-fce1abd065df228fc7264bae3d489f13.mp3str"
+
+[deps]
+
+source_file="res://sounds/maoudamashii/bgm_maoudamashii_acoustic44.mp3"
+dest_files=[ "res://.import/bgm_maoudamashii_acoustic44.mp3-fce1abd065df228fc7264bae3d489f13.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
