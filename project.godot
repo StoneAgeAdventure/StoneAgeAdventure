@@ -27,7 +27,7 @@ config/icon="res://icon.png"
 [autoload]
 
 Debug="*res://singleton/debug.tscn"
-Music="*res://singleton/music.gd"
+Music="*res://singleton/music.tscn"
 
 [display]
 
