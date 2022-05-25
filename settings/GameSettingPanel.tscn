@@ -4,8 +4,9 @@
 [ext_resource path="res://settings/GameSettingPanel.gd" type="Script" id=2]
 
 [node name="GameSettingPanel" type="Panel"]
-margin_right = 238.0
+margin_right = 237.0
 margin_bottom = 172.0
+rect_scale = Vector2( 2, 2 )
 script = ExtResource( 2 )
 
 [node name="VBoxContainer" type="VBoxContainer" parent="."]
