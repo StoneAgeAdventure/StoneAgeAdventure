@@ -18,7 +18,7 @@ enum Choice {BLOOD,MAGIC}
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	pass # Replace with function body.
-	set_blood_and_magic(1,1)
+	set_blood_and_magic(100,1)
 
 func set_blood_and_magic(amount: int,choice: int):
 	
@@ -32,14 +32,13 @@ func set_blood_and_magic(amount: int,choice: int):
 		_texture_tail = _magic_tail
 	if amount < 1:
 		return
-	var newnode = null
-	newnode = TextureRect.new()
+	var newnode =  TextureRect.new()
 	(newnode as TextureRect).texture = _texture_head
 	self.add_child(newnode)
 	if amount > 2:
 		newnode = TextureRect.new()
 		(newnode as TextureRect).texture = _texture_mid
-		(newnode as TextureRect).rect_scale.x = 100
+		(newnode as TextureRect).rect_scale = Vector2(amount,1)
 		self.add_child(newnode)
 	newnode = TextureRect.new()
 	(newnode as TextureRect).texture = _texture_tail
