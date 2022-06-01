@@ -51,9 +51,14 @@ func _on_Area2D_body_entered(body):
 		damage(30)
 		$BloodAndMagic.set_hp_and_mp(get_health())
 		if get_health() <= 0:
+			$BloodAndMagic.queue_free()
 			animation_player.stop(true)
 			animation_player.play("dead")
+		else:
+			animation_player.play("attacked")
 			
 func _on_AnimationPlayer_animation_finished(anim_name : String):
 	if anim_name == "dead":
 		self.queue_free()
+	elif anim_name == "attacked":
+		set_state(State.IDLE)
