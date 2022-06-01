@@ -3,6 +3,7 @@ extends Node2D
 export (Color) var border_color = Color.black
 export (Color) var background_color = Color.aqua
 export (Color) var foreground_color = Color.green
+export (int) var hp_and_mp_value = 0
 
 func _ready():
 	var fg_style := StyleBoxFlat.new()
@@ -30,6 +31,7 @@ func _ready():
 	bg_style.corner_radius_top_right = 2
 	($ProgressBar.theme).set_stylebox("fg", "ProgressBar", fg_style)
 	($ProgressBar.theme).set_stylebox("bg", "ProgressBar", bg_style)
+	$ProgressBar.value = hp_and_mp_value
 
 func _process(delta):
 	pass

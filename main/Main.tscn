@@ -103,3 +103,4 @@ rect_scale = Vector2( 0.888889, 1.02798 )
 border_color = Color( 0.423529, 0.12549, 0.12549, 1 )
 background_color = Color( 0, 0.368627, 1, 1 )
 foreground_color = Color( 1, 0, 0.376471, 1 )
+hp_and_mp_value = 100
