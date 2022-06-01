@@ -32,6 +32,11 @@ func _ready():
 	($ProgressBar.theme).set_stylebox("fg", "ProgressBar", fg_style)
 	($ProgressBar.theme).set_stylebox("bg", "ProgressBar", bg_style)
 	$ProgressBar.value = hp_and_mp_value
-
-func _process(delta):
-	pass
+	
+func set_hp_and_mp(value: int):
+	$ProgressBar.value = value
+	
+func get_hp_and_mp():
+	return $ProgressBar.value
+	
+	

@@ -30,10 +30,16 @@ func set_attack_point(point: int):
 func set_speed(speed: float):
 	_speed = speed
 
+func set_health(hp: int):
+	_hp = hp
+	
 func set_state(state):
 	_state = state
 
 func move(dist: Vector2):
+	if _state == State.DAMAGED or _state == State.DEATH:
+		return
+		
 	var _tmp := move_and_slide(dist)
 	if dist != Vector2.ZERO:
 		_state = State.MOVE
@@ -42,9 +48,11 @@ func move(dist: Vector2):
 		
 func attack(ch: Character):
 	ch.damage(_attack_point)
-	
+	ch._state = State.DAMAGED
+	self._state = State.ATTACK
 
 func damage(hp: int):
+	self._state = State.DAMAGED
 	_hp -= hp
 	if _hp <= 0:
 		death()
