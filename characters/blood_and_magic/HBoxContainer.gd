@@ -1,4 +1,4 @@
-extends HBoxContainer
+extends Control
 
 class_name Blood
 # Declare member variables here. Examples:
@@ -18,7 +18,10 @@ enum Choice {BLOOD,MAGIC}
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	pass # Replace with function body.
-	set_blood_and_magic(100,1)
+	set_blood_and_magic(20,1)
+	set_blood_and_magic(20,1)
+	set_blood_and_magic(20,1)
+
 
 func set_blood_and_magic(amount: int,choice: int):
 	
@@ -35,12 +38,15 @@ func set_blood_and_magic(amount: int,choice: int):
 	var newnode =  TextureRect.new()
 	(newnode as TextureRect).texture = _texture_head
 	self.add_child(newnode)
+	var tmp_len := 18 * amount + 9
 	if amount > 2:
 		newnode = TextureRect.new()
 		(newnode as TextureRect).texture = _texture_mid
-		(newnode as TextureRect).rect_scale = Vector2(amount,1)
+		(newnode as TextureRect).rect_scale = Vector2(amount, 1)
+		(newnode as TextureRect).set_position(Vector2(9, 0))
 		self.add_child(newnode)
 	newnode = TextureRect.new()
 	(newnode as TextureRect).texture = _texture_tail
+	(newnode as TextureRect).rect_position = Vector2(tmp_len, 0)
 	self.add_child(newnode)
 		
