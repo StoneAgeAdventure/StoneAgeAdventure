@@ -3,11 +3,14 @@ extends KinematicBody2D
 class_name Character
 
 enum State {IDLE, MOVE, ATTACK, DAMAGED, DEATH}
+enum Weapon {BARE_HAND,KNIFE,SWORD1,SWORD2}
 onready var _hp := 100
 onready var _sp := 100
 onready var _attack_point := 10
 onready var _speed := 200.0
 onready var _state = State.IDLE
+onready var _weapon := []
+onready var _present_weapon = Weapon.BARE_HAND
 
 func get_health() -> int:
 	return _hp
@@ -59,3 +62,9 @@ func damage(hp: int):
 
 func death():
 	_state = State.DEATH
+	
+func add_weapon(weapon : int):
+	_weapon.append(weapon)
+	
+func set_weapon(weapon : int):
+	_present_weapon = weapon
