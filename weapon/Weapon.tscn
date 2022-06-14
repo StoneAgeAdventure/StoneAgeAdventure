@@ -201,15 +201,13 @@
 13/shapes = [  ]
 13/z_index = 0
 
-[node name="Weapon" type="Node2D"]
+[node name="Weapon" type="Sprite"]
 scale = Vector2( 0.45, 0.45 )
 script = ExtResource( 2 )
 
-[node name="Node2D" type="Node2D" parent="."]
-position = Vector2( -38, -55 )
-
-[node name="TileMap" type="TileMap" parent="Node2D"]
-position = Vector2( 0, 3.8147e-06 )
+[node name="TileMap" type="TileMap" parent="."]
+position = Vector2( -8.88889, -24.4444 )
 tile_set = SubResource( 1 )
 cell_size = Vector2( 32, 32 )
 format = 1
+tile_data = PoolIntArray( 0, 0, 0 )
